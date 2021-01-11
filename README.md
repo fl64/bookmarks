@@ -22,6 +22,7 @@ OS and CLI
 ### CLI
 - Pure bash bible: https://github.com/dylanaraps/pure-bash-bible
 - BASH Cheatsheet: https://devhints.io/bash
+- BASH script template: https://medium.com/better-programming/my-minimal-safe-bash-script-template-300759114040
 - Console services: https://github.com/chubin/awesome-console-services
 - Bash hackers wiki: https://wiki.bash-hackers.org/start
 - SED:
@@ -103,7 +104,8 @@ Services
 ==========
 - Selfhosted services: https://github.com/Kickball/awesome-selfhosted
 
-
+### Message Queue
+-  Почему Kafka такая быстрая  - https://habr.com/ru/company/southbridge/blog/530498/
 ### DB
 - MongoDB
   -  Виды репликации в MongoDB https://habr.com/ru/company/otus/blog/521302/
@@ -114,6 +116,7 @@ DevOps
 
 ### Ansible
 - Ansible Vagrant Examples - https://github.com/geerlingguy/ansible-vagrant-examples
+- Ansible идемпотентный - https://habr.com/ru/post/536340/ | https://www.youtube.com/watch?v=1-lRS05NrLc
 - Testing
   - Podman and molecule
     - https://www.ansible.com/blog/developing-and-testing-ansible-roles-with-molecule-and-podman-part-1
