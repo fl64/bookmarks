@@ -14,6 +14,7 @@ OS and CLI
 - SSL\TLS certificates stores - https://www.happyassassin.net/posts/2015/01/12/a-note-about-ssltls-trusted-certificate-stores-and-platforms/
 - Linux inside (rus) https://github.com/proninyaroslav/linux-insides-ru
 - Fedora FAQ https://russianfedora.github.io/FAQ/
+- How to Set Environment Variables in Linux and Mac: The Missing Manual - https://doppler.com/blog/how-to-set-environment-variables-in-linux-and-mac
 
 ### Perfomance
 - How to Trace Linux System Calls in Production with Minimal Impact on Performance - https://pingcap.com/blog/how-to-trace-linux-system-calls-in-production-with-minimal-impact-on-performance
