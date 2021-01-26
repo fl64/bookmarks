@@ -8,9 +8,10 @@
 - Understanding disk usage: https://ownyourbits.com/2018/05/02/understanding-disk-usage-in-linux/
 - htop explained https://peteris.rocks/blog/htop/
 - The UNIX `who` command https://gauthier.uk/blog/who/
-- Load Average
+- Load Average:
   - https://habr.com/ru/company/mailru/blog/335326/
   - http://www.brendangregg.com/blog/2017-08-08/linux-load-averages.html
+  - https://interface31.ru/tech_it/2016/06/linux-nachinayushhim-chto-takoe-load-average-i-kakuyu-informaciyu-on-neset.html
 - SSL\TLS certificates stores - https://www.happyassassin.net/posts/2015/01/12/a-note-about-ssltls-trusted-certificate-stores-and-platforms/
 - Linux inside (rus) https://github.com/proninyaroslav/linux-insides-ru
 - Fedora FAQ https://russianfedora.github.io/FAQ/
