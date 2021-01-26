@@ -12,6 +12,7 @@
   - https://habr.com/ru/company/mailru/blog/335326/
   - http://www.brendangregg.com/blog/2017-08-08/linux-load-averages.html
   - https://interface31.ru/tech_it/2016/06/linux-nachinayushhim-chto-takoe-load-average-i-kakuyu-informaciyu-on-neset.html
+- VMstat explained - https://medium.com/@damianmyerscough/vmstat-explained-83b3e87493b3
 - SSL\TLS certificates stores - https://www.happyassassin.net/posts/2015/01/12/a-note-about-ssltls-trusted-certificate-stores-and-platforms/
 - Linux inside (rus) https://github.com/proninyaroslav/linux-insides-ru
 - Fedora FAQ https://russianfedora.github.io/FAQ/
