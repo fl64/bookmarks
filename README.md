@@ -217,6 +217,7 @@ Dev
         - https://www.daolf.com/posts/git-series-part-3/
     - Git hooks: https://github.com/aitemr/awesome-git-hooks
     - Visual GIT guide https://marklodato.github.io/visual-git-guide/index-ru.html
+    - All needed git commands in one script - https://bitbucket.org/BitPusher16/dotfiles/raw/49a01d929dcaebcca68bbb1859b4ac1aea93b073/refs/git/git_examples.sh
 - The Architecture of Open Source Applications http://www.aosabook.org/en/index.html
 - Make:
     - Makefile tutorial: http://makefiletutorial.com/
