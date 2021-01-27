@@ -5,6 +5,7 @@
 ### OS
 
 - How Much Memory Does the Process Really Take on Linux? - https://www.percona.com/blog/2020/09/11/how-much-memory-does-the-process-really-take-on-linux/
+- Как Linux работает с памятью - https://habr.com/ru/company/yandex/blog/250753/
 - Understanding disk usage: https://ownyourbits.com/2018/05/02/understanding-disk-usage-in-linux/
 - htop explained https://peteris.rocks/blog/htop/
 - The UNIX `who` command https://gauthier.uk/blog/who/
