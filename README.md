@@ -143,7 +143,7 @@
 - Service Discovery в распределенных системах на примере Consul (https://habr.com/ru/post/487706/)
 
 ### Docker
-
+- Containers from Scratch - https://ericchiang.github.io/post/containers-from-scratch/
 - How Docker Container Networking Works - Mimic It Using Linux Network Namespaces (https://dev.to/polarbit/how-docker-container-networking-works-mimic-it-using-linux-network-namespaces-9mj)
 - Docker swarm:
   - https://dev.vividbreeze.com/docker-swarm-single-node/
