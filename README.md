@@ -23,7 +23,8 @@
 - How to Trace Linux System Calls in Production with Minimal Impact on Performance - https://pingcap.com/blog/how-to-trace-linux-system-calls-in-production-with-minimal-impact-on-performance
 
 ### CLI
-
+- Shell style guide: https://google.github.io/styleguide/shellguide.html
+- The Art of Command Line: https://github.com/jlevy/the-art-of-command-line
 - Pure bash bible: https://github.com/dylanaraps/pure-bash-bible
 - BASH Cheatsheet: https://devhints.io/bash
 - BASH script template: https://medium.com/better-programming/my-minimal-safe-bash-script-template-300759114040
