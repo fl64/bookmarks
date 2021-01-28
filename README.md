@@ -18,6 +18,7 @@
 - Linux inside (rus) https://github.com/proninyaroslav/linux-insides-ru
 - Fedora FAQ https://russianfedora.github.io/FAQ/
 - How to Set Environment Variables in Linux and Mac: The Missing Manual - https://doppler.com/blog/how-to-set-environment-variables-in-linux-and-mac
+- Bash: about .bashrc, .bash_profile, .profile, /etc/profile, etc/bash.bashrc and others - https://www.stefaanlippens.net/bashrc_and_others/
 
 ### Perfomance
 
