@@ -25,6 +25,7 @@
 - How to Trace Linux System Calls in Production with Minimal Impact on Performance - https://pingcap.com/blog/how-to-trace-linux-system-calls-in-production-with-minimal-impact-on-performance
 
 ### CLI
+
 - Shell style guide: https://google.github.io/styleguide/shellguide.html
 - The Art of Command Line: https://github.com/jlevy/the-art-of-command-line
 - Pure bash bible: https://github.com/dylanaraps/pure-bash-bible
@@ -98,7 +99,10 @@
 
 ### VPN
 
-- Route-based VPN on Linux with WireGuard https://vincent.bernat.ch/en/blog/2018-route-based-vpn-wireguard
+- Understanding systemd-resolved, Split DNS, and VPN Configuration
+- Wireguard
+  - Route-based VPN on Linux with WireGuard https://vincent.bernat.ch/en/blog/2018-route-based-vpn-wireguard
+  - An introduction to WireGuard VPN - https://jasoneckert.github.io/myblog/an-introduction-to-wireguard-vpn/
 
 ### Proxy
 
@@ -144,6 +148,7 @@
 - Service Discovery в распределенных системах на примере Consul (https://habr.com/ru/post/487706/)
 
 ### Docker
+
 - Containers from Scratch - https://ericchiang.github.io/post/containers-from-scratch/
 - How Docker Container Networking Works - Mimic It Using Linux Network Namespaces (https://dev.to/polarbit/how-docker-container-networking-works-mimic-it-using-linux-network-namespaces-9mj)
 - Docker swarm:
@@ -168,6 +173,7 @@
     (https://mkdev.me/en/posts/dockerless-part-3-moving-development-environment-to-containers-with-podman)
 - The tool that really runs your containers: deep dive into runc and OCI specifications (https://mkdev.me/en/posts/the-tool-that-really-runs-your-containers-deep-dive-into-runc-and-oci-specifications)
 - Docker Images Without Docker — A Practical Guide - https://codefresh.io/devops/docker-images-without-docker-practical-guide/
+- Building containers without Docker - https://blog.alexellis.io/building-containers-without-docker/
 
 ### Monitoring
 
@@ -218,17 +224,11 @@
   - HTTP Headers: https://nullsweep.com/http-security-headers-a-complete-guide/
 - PKI
   - How TLS works: https://tls.ulfheim.net/
+- 10 Useful Sudoers Configurations for Setting ‘sudo’ in Linux - https://www.tecmint.com/sudoers-configurations-for-setting-sudo-in-linux/
 
 # Dev
 
 - Git:
-  - Git cheatsheets:
-    - https://devhints.io/git-branch
-    - https://devhints.io/git-log-format
-    - https://devhints.io/git-revisions
-    - https://devhints.io/git-extras
-    - https://devhints.io/git-log
-    - https://devhints.io/git-tricks
   - Скринкаст по GIT https://www.youtube.com/playlist?list=PLDyvV36pndZHkDRik6kKF6gSb0N0W995h
   - Git series 1/3:
     - https://www.daolf.com/posts/git-series-part-1/
@@ -237,6 +237,7 @@
   - Git hooks: https://github.com/aitemr/awesome-git-hooks
   - Visual GIT guide https://marklodato.github.io/visual-git-guide/index-ru.html
   - All needed git commands in one script - https://bitbucket.org/BitPusher16/dotfiles/raw/49a01d929dcaebcca68bbb1859b4ac1aea93b073/refs/git/git_examples.sh
+  - 7 Git tricks that changed my life - https://opensource.com/article/20/10/advanced-git-tips
 - The Architecture of Open Source Applications http://www.aosabook.org/en/index.html
 - Make:
   - Makefile tutorial: http://makefiletutorial.com/
@@ -260,6 +261,7 @@
 - VIM
   - Is Vim Really Not For You? A Beginner Guide - https://thevaluable.dev/vim-for-beginners/
   - A Vim Guide for Intermediate Users - https://thevaluable.dev/vim-intermediate/
+  - 5 lines I put in a blank .vimrc - https://swordandsignals.com/2020/12/13/5-lines-in-vimrc.html
 
 ## Softskills
 
