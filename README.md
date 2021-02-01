@@ -4,6 +4,7 @@
 
 ### OS
 
+- How to Trace Linux System Calls in Production with Minimal Impact on Performance - https://en.pingcap.com/blog/how-to-trace-linux-system-calls-in-production-with-minimal-impact-on-performance
 - How Much Memory Does the Process Really Take on Linux? - https://www.percona.com/blog/2020/09/11/how-much-memory-does-the-process-really-take-on-linux/
 - Как Linux работает с памятью - https://habr.com/ru/company/yandex/blog/250753/
 - Understanding disk usage: https://ownyourbits.com/2018/05/02/understanding-disk-usage-in-linux/
