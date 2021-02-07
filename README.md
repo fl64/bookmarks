@@ -20,6 +20,9 @@
 - Fedora FAQ https://russianfedora.github.io/FAQ/
 - How to Set Environment Variables in Linux and Mac: The Missing Manual - https://doppler.com/blog/how-to-set-environment-variables-in-linux-and-mac
 - Bash: about .bashrc, .bash_profile, .profile, /etc/profile, etc/bash.bashrc and others - https://www.stefaanlippens.net/bashrc_and_others/
+- Почему линукс использует swap-файл
+  - https://habr.com/ru/post/540104/
+  - https://habr.com/ru/post/541214/
 
 ### Perfomance
 
