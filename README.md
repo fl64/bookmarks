@@ -227,7 +227,8 @@
 - HTTP
   - HTTP Headers: https://nullsweep.com/http-security-headers-a-complete-guide/
 - PKI
-  - How TLS works: https://tls.ulfheim.net/
+  - How TLS works - https://tls.ulfheim.net/
+  - How does https work - https://vitkarpov.me/posts/how-does-https-work/
 - 10 Useful Sudoers Configurations for Setting ‘sudo’ in Linux - https://www.tecmint.com/sudoers-configurations-for-setting-sudo-in-linux/
 
 # Dev
