@@ -214,6 +214,7 @@
 - Awesome k8s: https://github.com/ramitsurana/awesome-kubernetes
 - What happens when k8s: https://github.com/jamiehannaford/what-happens-when-k8s
 - Как с fio проверить диски на достаточную производительность для etcd: https://habr.com/ru/company/flant/blog/505100/
+- Ломаем и чиним etcd-кластер https://habr.com/ru/post/544390/
 
 # SRE
 
