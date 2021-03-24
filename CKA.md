@@ -1,4 +1,5 @@
 ## How I passed CKA...
+
 - https://wely-lau.net/2020/03/23/learning-materials-and-8-tips-to-pass-ckad-certified-kubernetes-application-developer-exam/
 - https://www.phillipsj.net/posts/my-cka-experience/
 - https://medium.com/bb-tutorials-and-thoughts/how-to-pass-the-certified-kubernetes-administrator-cka-exam-9e01f1aa93b8
@@ -15,14 +16,14 @@
 - Disable ctrl+w https://suraj.io/post/disable-ctrl-w/
 - VIM shortcuts: https://gist.github.com/awidegreen/3854277
 - vim settings: https://blog.codonomics.com/2019/09/essential-vim-for-ckad-or-cka-exam.html
-    ```
-    # ~/.vimrc file with the following content:
-    set number
-    syntax on
-    set syntax=yaml
-    set et
-    set sw=2 ts=2 sts=2
-    ```
+  ```
+  # ~/.vimrc file with the following content:
+  set number
+  syntax on
+  set syntax=yaml
+  set et
+  set sw=2 ts=2 sts=2
+  ```
 - bash setings:
   cat ~/.bashrc
   ```bash
@@ -46,13 +47,14 @@
     >     Ctrl+b x Close the current pane
 - k8s concepts and pics https://github.com/Bes0n/CKA/blob/master/README.md !!!
 - Add it to bookmarks:
+
   - https://kubernetes.io/docs/concepts/
 
 - https://medium.com/@sovmirich/preparing-and-passing-the-certified-kubernetes-administrator-cka-exam-4a76fa4b1c4
 
 > 8. The exam will be a question related to DNS and remember the following: in DNS Pod name is not the Hostname, but the IP address separated by hyphens. For example, 10–1–1–1.default.pod.cluster.local. This question is dealt with in Mumshad in lectures 147, 148, 149.
-> 12. Carefully study the topic of Static Pods, this will help you very well when troubleshooting the non-working Kubernetes components.
-> 13. TLS Bootstrapping. From my point of view the most voluminous question on the exam. It seemed to me more difficult than Mumshad described in his course and in the practical tests.
+> 9. Carefully study the topic of Static Pods, this will help you very well when troubleshooting the non-working Kubernetes components.
+> 10. TLS Bootstrapping. From my point of view the most voluminous question on the exam. It seemed to me more difficult than Mumshad described in his course and in the practical tests.
 
 - https://dev.to/kodekloud/tips-and-tricks-to-pass-the-cka-and-ckad-exam-c76
   read this:
@@ -61,12 +63,12 @@
   - https://kubernetes.io/docs/tasks/debug-application-cluster/determine-reason-pod-failure/
 - https://github.com/krzko/awesome-cka
 
-
-
 ## Read this:
+
 - Stupid Simple Kubernetes — Persistent Volumes explained by examples https://medium.com/swlh/stupid-simple-kubernetes-persistent-volumes-explained-by-examples-29f8fec08c4
 
 ## Practice this:
+
 - https://rx-m.com/cka-online-training/
 - https://github.com/kelseyhightower/kubernetes-the-hard-way
 - https://github.com/bbachi/CKAD-Practice-Questions

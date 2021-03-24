@@ -84,6 +84,7 @@
 - Curl cookbook: https://catonmat.net/cookbooks/curl
 
 # Networking
+
 - rsync
   - How rsync works: https://rsync.samba.org/how-rsync-works.html
   - The fastest remote directory rsync over: ssh https://gist.github.com/KartikTalwar/4393116
@@ -282,7 +283,3 @@
 - https://github.com/alex/what-happens-when
 - https://github.com/trimstray/the-book-of-secret-knowledge
 - Build a Hugo static site in your browser using GitHub Codespaces - https://shotor.com/blog/build-a-hugo-static-site-in-your-browser-using-github-codespaces/
-
-## Utils
-
-- Image writer with GUI https://www.balena.io/etcher/
