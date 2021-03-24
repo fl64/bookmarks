@@ -35,6 +35,10 @@
 
 - Different approaches to HTTP routing in Go - https://benhoyt.com/writings/go-routing/
 
+### REST
+
+- Creating a Production-Ready Rest API With Go https://link.medium.com/xCc420aYLeb
+
 ## Zen
 
 - Дзен Go https://habr.com/ru/company/mailru/blog/490340/
