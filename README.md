@@ -84,7 +84,9 @@
 - Curl cookbook: https://catonmat.net/cookbooks/curl
 
 # Networking
-
+- rsync
+  - How rsync works: https://rsync.samba.org/how-rsync-works.html
+  - The fastest remote directory rsync over: ssh https://gist.github.com/KartikTalwar/4393116
 - SDSM https://github.com/eucariot/SDSM
 - How NAT traversal works? https://tailscale.com/blog/how-nat-traversal-works/
 - VXLAN & Linux https://vincent.bernat.ch/en/blog/2017-vxlan-linux
