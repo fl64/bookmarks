@@ -38,6 +38,9 @@
 - BASH script template: https://medium.com/better-programming/my-minimal-safe-bash-script-template-300759114040
 - Console services: https://github.com/chubin/awesome-console-services
 - Bash hackers wiki: https://wiki.bash-hackers.org/start
+- BASH:
+  - Bash Job Control: https://copyconstruct.medium.com/bash-job-control-4a36da3e4aa7
+  - Bash coprocess: https://copyconstruct.medium.com/bash-coprocess-2092a93ad912
 - SED:
   - https://www.grymoire.com/Unix/sed.html
   - https://www.gnu.org/software/sed/manual/sed.html?
