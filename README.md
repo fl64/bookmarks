@@ -287,3 +287,4 @@
 - https://github.com/alex/what-happens-when
 - https://github.com/trimstray/the-book-of-secret-knowledge
 - Build a Hugo static site in your browser using GitHub Codespaces - https://shotor.com/blog/build-a-hugo-static-site-in-your-browser-using-github-codespaces/
+- Compression Tools Compared https://www.linuxjournal.com/article/8051
