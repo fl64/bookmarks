@@ -22,8 +22,8 @@
 - How to Set Environment Variables in Linux and Mac: The Missing Manual - https://doppler.com/blog/how-to-set-environment-variables-in-linux-and-mac
 - Bash: about .bashrc, .bash_profile, .profile, /etc/profile, etc/bash.bashrc and others - https://www.stefaanlippens.net/bashrc_and_others/
 - Почему линукс использует swap-файл
-  - https://habr.com/ru/post/540104/
-  - https://habr.com/ru/post/541214/
+  - part1: https://habr.com/ru/post/540104/
+  - part2: https://habr.com/ru/post/541214/
 
 ### Perfomance
 
@@ -204,8 +204,7 @@
 - Анализ TSDB в Prometheus 2 - https://habr.com/ru/company/funcorp/blog/445370/
 - Мониторинг веб проектов
   - Мониторинг всех слоев web-проекта - https://www.highload.ru/2015/abstracts/1919.html
-  - Типовое внедрение мониторинга - https://habr.com/ru/post/473728/
-    - Presentation: https://github.com/avito-tech/avitotech-presentations/blob/master/DevOps%20Moscow%20meetup%20%E2%80%94%20%D0%9C%D0%BE%D0%BD%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D0%BD%D0%B3/%D0%90%D0%B2%D1%82%D0%BE%D0%B4%D0%B8%D1%81%D0%BA%D0%B0%D0%B2%D0%B5%D1%80%D0%B8%20%D0%B2%20%D0%BC%D0%BE%D0%BD%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D0%BD%D0%B3%D0%B5%20%E2%80%94%20%D0%BA%D0%B0%D0%BA%20%D0%BD%D0%B0%D0%B4%D1%91%D0%B6%D0%BD%D0%BE%20%D0%BE%D0%B1%D0%B5%D1%81%D0%BF%D0%B5%D1%87%D0%B8%D1%82%D1%8C%20%D0%BF%D0%BE%D0%BB%D0%BD%D0%BE%D1%82%D1%83%20%D0%BC%D0%BE%D0%BD%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D0%BD%D0%B3%D0%B0.%20%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B9%20%D0%A1%D0%B8%D0%B2%D0%BA%D0%BE%20(okmeter.io).pdf
+  - Типовое внедрение мониторинга - https://habr.com/ru/post/473728/ [pdf](https://github.com/avito-tech/avitotech-presentations/blob/master/DevOps%20Moscow%20meetup%20%E2%80%94%20%D0%9C%D0%BE%D0%BD%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D0%BD%D0%B3/%D0%90%D0%B2%D1%82%D0%BE%D0%B4%D0%B8%D1%81%D0%BA%D0%B0%D0%B2%D0%B5%D1%80%D0%B8%20%D0%B2%20%D0%BC%D0%BE%D0%BD%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D0%BD%D0%B3%D0%B5%20%E2%80%94%20%D0%BA%D0%B0%D0%BA%20%D0%BD%D0%B0%D0%B4%D1%91%D0%B6%D0%BD%D0%BE%20%D0%BE%D0%B1%D0%B5%D1%81%D0%BF%D0%B5%D1%87%D0%B8%D1%82%D1%8C%20%D0%BF%D0%BE%D0%BB%D0%BD%D0%BE%D1%82%D1%83%20%D0%BC%D0%BE%D0%BD%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D0%BD%D0%B3%D0%B0.%20%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B9%20%D0%A1%D0%B8%D0%B2%D0%BA%D0%BE%20(okmeter.io).pdf)
   - Мониторинг Postgresql: запросы - https://habr.com/ru/company/okmeter/blog/311028/
   - Мониторинг сетевого стека linux - https://habr.com/ru/company/okmeter/blog/309600/
   - Tracking request duration with Prometheus - https://povilasv.me/prometheus-tracking-request-duration/
@@ -244,9 +243,9 @@
 - Git:
   - Скринкаст по GIT https://www.youtube.com/playlist?list=PLDyvV36pndZHkDRik6kKF6gSb0N0W995h
   - Git series 1/3:
-    - https://www.daolf.com/posts/git-series-part-1/
-    - https://www.daolf.com/posts/git-series-part-2/
-    - https://www.daolf.com/posts/git-series-part-3/
+    - Understanding git for real by exploring the .git directory: https://www.daolf.com/posts/git-series-part-1/
+    - Rebase and the golden rule explained: https://www.daolf.com/posts/git-series-part-2/
+    - Mastering git rebase: https://www.daolf.com/posts/git-series-part-3/
   - Git hooks: https://github.com/aitemr/awesome-git-hooks
   - Visual GIT guide https://marklodato.github.io/visual-git-guide/index-ru.html
   - All needed git commands in one script - https://bitbucket.org/BitPusher16/dotfiles/raw/49a01d929dcaebcca68bbb1859b4ac1aea93b073/refs/git/git_examples.sh
@@ -261,16 +260,12 @@
   - Build debian packages for simple shell scripts https://blog.packagecloud.io/eng/2016/12/15/howto-build-debian-package-containing-simple-shell-scripts/
   - NFPM: https://goreleaser.com/customization/nfpm/
   - Pragmatic Debian packaging https://vincent.bernat.ch/en/blog/2019-pragmatic-debian-packaging
-- golang
-  - https://yourbasic.org/golang/
-  - https://goplay.space/ Playground http://goplay.x1unix.com/
-  - Тутор по го - пишем чат https://medium.com/@nqbao/writing-a-chat-server-in-go-3b61ccc2a8ed
 - REST
   - JSON API – работаем по спецификации https://habr.com/ru/company/oleg-bunin/blog/433322/
 - Versioning
-  - https://semver.org/lang/ru/
-  - https://readme.phys.ethz.ch/documentation/debian_version_numbers/
-  - https://fedoraproject.org/wiki/Package_Versioning_Examples
+  - Семантическое Версионирование 2.0.0: https://semver.org/lang/ru/
+  - Debian Version Numbers: https://readme.phys.ethz.ch/documentation/debian_version_numbers/
+  - Fedora Versioning Examples: https://fedoraproject.org/wiki/Package_Versioning_Examples
 - VIM
   - Is Vim Really Not For You? A Beginner Guide - https://thevaluable.dev/vim-for-beginners/
   - A Vim Guide for Intermediate Users - https://thevaluable.dev/vim-intermediate/

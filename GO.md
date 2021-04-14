@@ -78,3 +78,8 @@ Equality - https://medium.com/golangspec/equality-in-golang-ff44da79b7f1
 - Tit Petric’s Blog https://scene-si.org
 - Tutorial Edge https://tutorialedge.net/course/golang
 - Thoughts’ Go Topic https://utcc.utoronto.ca/~cks/space/blog/__TopicGoWandering
+
+## Other
+  - https://yourbasic.org/golang/
+  - https://goplay.space/ Playground http://goplay.x1unix.com/
+  - Тутор по го - пишем чат https://medium.com/@nqbao/writing-a-chat-server-in-go-3b61ccc2a8ed
