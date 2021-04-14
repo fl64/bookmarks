@@ -193,26 +193,27 @@
 
 ### Monitoring
 
-- Monitoring Linux Processes using Prometheus and Grafana - https://devconnected.com/monitoring-linux-processes-using-prometheus-and-grafana/
-- Prometheus Monitoring : The Definitive Guide in 2019 (https://devconnected.com/the-definitive-guide-to-prometheus-in-2019/)
-- The Definitive Guide To InfluxDB In 2019 (https://devconnected.com/the-definitive-guide-to-influxdb-in-2019/)
-- Complete Node Exporter Mastery with Prometheus (https://devconnected.com/complete-node-exporter-mastery-with-prometheus/)
+- [Monitoring Linux Processes using Prometheus and Grafana](https://devconnected.com/monitoring-linux-processes-using-prometheus-and-grafana/)
+- [Prometheus Monitoring : The Definitive Guide in 2019](https://devconnected.com/the-definitive-guide-to-prometheus-in-2019/)
+- [The Definitive Guide To InfluxDB In 2019](https://devconnected.com/the-definitive-guide-to-influxdb-in-2019/)
+- [Complete Node Exporter Mastery with Prometheus](https://devconnected.com/complete-node-exporter-mastery-with-prometheus/)
 - Elastiсsearch+Fluentd+Kibana
-  - Part 1. https://kamaok.org.ua/?p=3368
-  - Part 2. https://kamaok.org.ua/?p=3386
-  - Part 3. https://kamaok.org.ua/?p=3397
-  - src: https://bitbucket.org/kamaok/logstack/src/master/
+  - [Part 1](https://kamaok.org.ua/?p=3368)
+  - [Part 2](https://kamaok.org.ua/?p=3386)
+  - [Part 3](https://kamaok.org.ua/?p=3397)
+  - [Sources](https://bitbucket.org/kamaok/logstack/src/master/)
 - Prometheus alert examples
   - https://awesome-prometheus-alerts.grep.to/
   - https://monitoring.mixins.dev/
-- Prometheus federation LAB - https://github.com/blndev/prometheus-playground
-- Анализ TSDB в Prometheus 2 - https://habr.com/ru/company/funcorp/blog/445370/
+- [Prometheus federation LAB](https://github.com/blndev/prometheus-playground)
+- [Анализ TSDB в Prometheus 2](https://habr.com/ru/company/funcorp/blog/445370/)
+- [How to troubleshoot remote write issues in Prometheus](https://grafana.com/blog/2021/04/12/how-to-troubleshoot-remote-write-issues-in-prometheus/?utm_source=tw&utm_medium=social)
 - Мониторинг веб проектов
-  - Мониторинг всех слоев web-проекта - https://www.highload.ru/2015/abstracts/1919.html
-  - Типовое внедрение мониторинга - https://habr.com/ru/post/473728/ [pdf](<https://github.com/avito-tech/avitotech-presentations/blob/master/DevOps%20Moscow%20meetup%20%E2%80%94%20%D0%9C%D0%BE%D0%BD%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D0%BD%D0%B3/%D0%90%D0%B2%D1%82%D0%BE%D0%B4%D0%B8%D1%81%D0%BA%D0%B0%D0%B2%D0%B5%D1%80%D0%B8%20%D0%B2%20%D0%BC%D0%BE%D0%BD%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D0%BD%D0%B3%D0%B5%20%E2%80%94%20%D0%BA%D0%B0%D0%BA%20%D0%BD%D0%B0%D0%B4%D1%91%D0%B6%D0%BD%D0%BE%20%D0%BE%D0%B1%D0%B5%D1%81%D0%BF%D0%B5%D1%87%D0%B8%D1%82%D1%8C%20%D0%BF%D0%BE%D0%BB%D0%BD%D0%BE%D1%82%D1%83%20%D0%BC%D0%BE%D0%BD%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D0%BD%D0%B3%D0%B0.%20%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B9%20%D0%A1%D0%B8%D0%B2%D0%BA%D0%BE%20(okmeter.io).pdf>)
-  - Мониторинг Postgresql: запросы - https://habr.com/ru/company/okmeter/blog/311028/
-  - Мониторинг сетевого стека linux - https://habr.com/ru/company/okmeter/blog/309600/
-  - Tracking request duration with Prometheus - https://povilasv.me/prometheus-tracking-request-duration/
+  - [Мониторинг всех слоев web-проекта](https://www.highload.ru/2015/abstracts/1919.html)
+  - [Типовое внедрение мониторинга](https://habr.com/ru/post/473728/), [pdf](<https://github.com/avito-tech/avitotech-presentations/blob/master/DevOps%20Moscow%20meetup%20%E2%80%94%20%D0%9C%D0%BE%D0%BD%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D0%BD%D0%B3/%D0%90%D0%B2%D1%82%D0%BE%D0%B4%D0%B8%D1%81%D0%BA%D0%B0%D0%B2%D0%B5%D1%80%D0%B8%20%D0%B2%20%D0%BC%D0%BE%D0%BD%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D0%BD%D0%B3%D0%B5%20%E2%80%94%20%D0%BA%D0%B0%D0%BA%20%D0%BD%D0%B0%D0%B4%D1%91%D0%B6%D0%BD%D0%BE%20%D0%BE%D0%B1%D0%B5%D1%81%D0%BF%D0%B5%D1%87%D0%B8%D1%82%D1%8C%20%D0%BF%D0%BE%D0%BB%D0%BD%D0%BE%D1%82%D1%83%20%D0%BC%D0%BE%D0%BD%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D0%BD%D0%B3%D0%B0.%20%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B9%20%D0%A1%D0%B8%D0%B2%D0%BA%D0%BE%20(okmeter.io).pdf>)
+  - [Мониторинг Postgresql: запросы](https://habr.com/ru/company/okmeter/blog/311028/)
+  - [Мониторинг сетевого стека linux](https://habr.com/ru/company/okmeter/blog/309600/)
+  - [Tracking request duration with Prometheus](https://povilasv.me/prometheus-tracking-request-duration/)
 
 ### GitOps
 
