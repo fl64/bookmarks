@@ -27,33 +27,30 @@
 
 ### Perfomance
 
-- How to Trace Linux System Calls in Production with Minimal Impact on Performance - https://pingcap.com/blog/how-to-trace-linux-system-calls-in-production-with-minimal-impact-on-performance
+- [How to Trace Linux System Calls in Production with Minimal Impact on Performance](https://pingcap.com/blog/how-to-trace-linux-system-calls-in-production-with-minimal-impact-on-performance)
 
 ### CLI
 
-- Shell style guide: https://google.github.io/styleguide/shellguide.html
-- The Art of Command Line: https://github.com/jlevy/the-art-of-command-line
-- Pure bash bible: https://github.com/dylanaraps/pure-bash-bible
-- BASH Cheatsheet: https://devhints.io/bash
-- BASH script template: https://medium.com/better-programming/my-minimal-safe-bash-script-template-300759114040
-- Console services: https://github.com/chubin/awesome-console-services
-- Bash hackers wiki: https://wiki.bash-hackers.org/start
+- [Shell style guide](https://google.github.io/styleguide/shellguide.html)
+- [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line)
+- [Console services](https://github.com/chubin/awesome-console-services)
 - BASH:
-  - Bash Job Control: https://copyconstruct.medium.com/bash-job-control-4a36da3e4aa7
-  - Bash coprocess: https://copyconstruct.medium.com/bash-coprocess-2092a93ad912
+  - [Bash Job Control](https://copyconstruct.medium.com/bash-job-control-4a36da3e4aa7)
+  - [Bash coprocess](https://copyconstruct.medium.com/bash-coprocess-2092a93ad912)
+  - [Pure bash bible](https://github.com/dylanaraps/pure-bash-bible)
+  - [BASH Cheatsheet](https://devhints.io/bash)
+  - [BASH script template](https://medium.com/better-programming/my-minimal-safe-bash-script-template-300759114040)
+  - [Bash hackers wiki](https://wiki.bash-hackers.org/start)
 - SED:
-  - https://www.grymoire.com/Unix/sed.html
-  - https://www.gnu.org/software/sed/manual/sed.html?
-  - https://posts.specterops.io/fawk-yeah-advanced-sed-and-awk-usage-parsing-for-pentesters-3-e5727e11a8ad
+  - [Sed - An Introduction and Tutorial by Bruce Barnett](https://www.grymoire.com/Unix/sed.html)
+  - [sed, a stream editor](https://www.gnu.org/software/sed/manual/sed.html)
+  - [F’Awk Yeah! Advanced sed and awk Usage](https://posts.specterops.io/fawk-yeah-advanced-sed-and-awk-usage-parsing-for-pentesters-3-e5727e11a8ad)
 - AWK
-  - AWK in 20 mins: https://ferd.ca/awk-in-20-minutes.html
-- The art of CLI https://github.com/jlevy/the-art-of-command-line
+  - [AWK in 20 mins](https://ferd.ca/awk-in-20-minutes.html)
 - Find:
-  - https://alvinalexander.com/unix/edu/examples/find.shtml
+  - [A BIG collection of Unix/Linux 'find' command examples](https://alvinalexander.com/unix/edu/examples/find.shtml)
 - ZSH
-  - https://github.com/unixorn/awesome-zsh-plugins
-- GREP
-  - https://leanpub.com/gnugrep_ripgrep ~ https://learnbyexample.github.io/books/
+  - [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins)
 
 ### Tools
 
