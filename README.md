@@ -4,26 +4,26 @@
 
 ### OS
 
-- How to Trace Linux System Calls in Production with Minimal Impact on Performance - https://en.pingcap.com/blog/how-to-trace-linux-system-calls-in-production-with-minimal-impact-on-performance
-- How Much Memory Does the Process Really Take on Linux? - https://www.percona.com/blog/2020/09/11/how-much-memory-does-the-process-really-take-on-linux/
-- Как Linux работает с памятью - https://habr.com/ru/company/yandex/blog/250753/
-- Understanding disk usage: https://ownyourbits.com/2018/05/02/understanding-disk-usage-in-linux/
-- htop explained https://peteris.rocks/blog/htop/
-- The UNIX `who` command https://gauthier.uk/blog/who/
+- [How to Trace Linux System Calls in Production with Minimal Impact on Performance](https://en.pingcap.com/blog/how-to-trace-linux-system-calls-in-production-with-minimal-impact-on-performance)
+- [How Much Memory Does the Process Really Take on Linux?](https://www.percona.com/blog/2020/09/11/how-much-memory-does-the-process-really-take-on-linux/)
+- [Как Linux работает с памятью](https://habr.com/ru/company/yandex/blog/250753/)
+- [Understanding disk usage](https://ownyourbits.com/2018/05/02/understanding-disk-usage-in-linux/)
+- [htop explained](https://peteris.rocks/blog/htop/)
+- [The UNIX `who` command](https://gauthier.uk/blog/who/)
 - Load Average:
-  - https://habr.com/ru/company/mailru/blog/335326/
-  - http://www.brendangregg.com/blog/2017-08-08/linux-load-averages.html
-  - https://interface31.ru/tech_it/2016/06/linux-nachinayushhim-chto-takoe-load-average-i-kakuyu-informaciyu-on-neset.html
-- Socat: https://link.medium.com/iJWlWdK3Zeb
-- VMstat explained - https://medium.com/@damianmyerscough/vmstat-explained-83b3e87493b3
-- SSL\TLS certificates stores - https://www.happyassassin.net/posts/2015/01/12/a-note-about-ssltls-trusted-certificate-stores-and-platforms/
-- Linux inside (rus) https://github.com/proninyaroslav/linux-insides-ru
-- Fedora FAQ https://russianfedora.github.io/FAQ/
-- How to Set Environment Variables in Linux and Mac: The Missing Manual - https://doppler.com/blog/how-to-set-environment-variables-in-linux-and-mac
-- Bash: about .bashrc, .bash_profile, .profile, /etc/profile, etc/bash.bashrc and others - https://www.stefaanlippens.net/bashrc_and_others/
+  - [Load Average в Linux: разгадка тайны](https://habr.com/ru/company/mailru/blog/335326/)
+  - [Linux Load Averages: Solving the Mystery](http://www.brendangregg.com/blog/2017-08-08/linux-load-averages.html)
+  - [Что такое Load Average и какую информацию он несет](https://interface31.ru/tech_it/2016/06/linux-nachinayushhim-chto-takoe-load-average-i-kakuyu-informaciyu-on-neset.html)
+- [Socat](https://link.medium.com/iJWlWdK3Zeb)
+- [VMstat explained](https://medium.com/@damianmyerscough/vmstat-explained-83b3e87493b3)
+- [SSL\TLS certificates stores](https://www.happyassassin.net/posts/2015/01/12/a-note-about-ssltls-trusted-certificate-stores-and-platforms/)
+- [Linux inside (rus)](https://github.com/proninyaroslav/linux-insides-ru)
+- [Fedora FAQ](https://russianfedora.github.io/FAQ/)
+- [How to Set Environment Variables in Linux and Mac: The Missing Manual](https://doppler.com/blog/how-to-set-environment-variables-in-linux-and-mac)
+- [Bash: about .bashrc, .bash_profile, .profile, /etc/profile, etc/bash.bashrc and others](https://www.stefaanlippens.net/bashrc_and_others/)
 - Почему линукс использует swap-файл
-  - part1: https://habr.com/ru/post/540104/
-  - part2: https://habr.com/ru/post/541214/
+  - [part1](https://habr.com/ru/post/540104/)
+  - [part2](https://habr.com/ru/post/541214/)
 
 ### Perfomance
 
