@@ -87,23 +87,23 @@
 # Networking
 
 - rsync
-  - How rsync works: https://rsync.samba.org/how-rsync-works.html
-  - The fastest remote directory rsync over: ssh https://gist.github.com/KartikTalwar/4393116
-- SDSM https://github.com/eucariot/SDSM
-- How NAT traversal works? https://tailscale.com/blog/how-nat-traversal-works/
-- VXLAN & Linux https://vincent.bernat.ch/en/blog/2017-vxlan-linux
-- Multi-tier load-balancing with Linux https://vincent.bernat.ch/en/blog/2018-multi-tier-loadbalancer
+  - [How rsync works](https://rsync.samba.org/how-rsync-works.html)
+  - [The fastest remote directory rsync over ssh](https://gist.github.com/KartikTalwar/4393116)
+- [SDSM](https://github.com/eucariot/SDSM)
+- [How NAT traversal works?](https://tailscale.com/blog/how-nat-traversal-works/)
+- [VXLAN & Linux](https://vincent.bernat.ch/en/blog/2017-vxlan-linux)
+- [Multi-tier load-balancing with Linux](https://vincent.bernat.ch/en/blog/2018-multi-tier-loadbalancer)
 - iproute2:
-  - Task-centered iproute2 manual https://github.com/dmbaturin/iproute2-cheatsheet
-  - Task-centered iproute2 user guide https://baturin.org/docs/iproute2/
-- Что обозначает вывод «ss -s» https://habr.com/ru/post/503648/
+  - [Task-centered iproute2 manual](https://github.com/dmbaturin/iproute2-cheatsheet)
+  - [Task-centered iproute2 user guide](https://baturin.org/docs/iproute2/)
+- [Что обозначает вывод «ss -s»](https://habr.com/ru/post/503648/)
 - DNS Lookup:
-  - Anatomy of a Linux DNS Lookup – Part I https://zwischenzugs.com/2018/06/08/anatomy-of-a-linux-dns-lookup-part-i/
-  - Anatomy of a Linux DNS Lookup – Part II https://zwischenzugs.com/2018/06/18/anatomy-of-a-linux-dns-lookup-part-ii/
-  - Anatomy of a Linux DNS Lookup – Part III https://zwischenzugs.com/2018/07/06/anatomy-of-a-linux-dns-lookup-part-iii/
-  - Anatomy of a Linux DNS Lookup – Part IV https://zwischenzugs.com/2018/08/06/anatomy-of-a-linux-dns-lookup-part-iv/
-  - Anatomy of a Linux DNS Lookup – Part V – Two Debug Nightmares https://zwischenzugs.com/2018/09/13/anatomy-of-a-linux-dns-lookup-part-v-two-debug-nightmares/
-- ipv4 route lookuop - https://vincent.bernat.ch/en/blog/2017-ipv4-route-lookup-linux
+  - [Anatomy of a Linux DNS Lookup – Part I](https://zwischenzugs.com/2018/06/08/anatomy-of-a-linux-dns-lookup-part-i/)
+  - [Anatomy of a Linux DNS Lookup – Part II](https://zwischenzugs.com/2018/06/18/anatomy-of-a-linux-dns-lookup-part-ii/)
+  - [Anatomy of a Linux DNS Lookup – Part III](https://zwischenzugs.com/2018/07/06/anatomy-of-a-linux-dns-lookup-part-iii/)
+  - [Anatomy of a Linux DNS Lookup – Part IV](https://zwischenzugs.com/2018/08/06/anatomy-of-a-linux-dns-lookup-part-iv/)
+  - [Anatomy of a Linux DNS Lookup – Part V](https://zwischenzugs.com/2018/09/13/anatomy-of-a-linux-dns-lookup-part-v-two-debug-nightmares/)
+- [ipv4 route lookuop](https://vincent.bernat.ch/en/blog/2017-ipv4-route-lookup-linux)
 
 ### VPN
 
