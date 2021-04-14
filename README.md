@@ -107,10 +107,10 @@
 
 ### VPN
 
-- Understanding systemd-resolved, Split DNS, and VPN Configuration
+- [Understanding systemd-resolved, Split DNS, and VPN Configuration](https://blogs.gnome.org/mcatanzaro/2020/12/17/understanding-systemd-resolved-split-dns-and-vpn-configuration/)
 - Wireguard
-  - Route-based VPN on Linux with WireGuard https://vincent.bernat.ch/en/blog/2018-route-based-vpn-wireguard
-  - An introduction to WireGuard VPN - https://jasoneckert.github.io/myblog/an-introduction-to-wireguard-vpn/
+  - [Route-based VPN on Linux with WireGuard](https://vincent.bernat.ch/en/blog/2018-route-based-vpn-wireguard)
+  - [An introduction to WireGuard VPN](https://jasoneckert.github.io/myblog/an-introduction-to-wireguard-vpn/)
 
 ### Proxy
 
