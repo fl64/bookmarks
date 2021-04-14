@@ -59,30 +59,30 @@
 ### SED\AWK\Perl\Bash\Curl oneliners
 
 - Sed oneliners explained:
-  1. File Spacing, Numbering and Text Conversion and Substitution (https://catonmat.net/sed-one-liners-explained-part-one)
-  2. Selective Printing of Certain Lines (https://catonmat.net/sed-one-liners-explained-part-two)
-  3. Selective Deletion of Certain Lines and Special Applications (https://catonmat.net/sed-one-liners-explained-part-three)
+  1. [File Spacing, Numbering and Text Conversion and Substitution](https://catonmat.net/sed-one-liners-explained-part-one)
+  2. [Selective Printing of Certain Lines](https://catonmat.net/sed-one-liners-explained-part-two)
+  3. [Selective Deletion of Certain Lines and Special Applications](https://catonmat.net/sed-one-liners-explained-part-three)
 - AWK oneliners explained:
-  1. File Spacing, Numbering and Calculations (https://catonmat.net/awk-one-liners-explained-part-one)
-  2. Text Conversion and Substitution (https://catonmat.net/awk-one-liners-explained-part-two)
-  3. Selective Printing and Deleting of Certain Lines (https://catonmat.net/awk-one-liners-explained-part-three)
-  4. String creation, array creation and update on selective printing of certain lines (https://catonmat.net/update-on-famous-awk-one-liners-explained)
+  1. [File Spacing, Numbering and Calculations](https://catonmat.net/awk-one-liners-explained-part-one)
+  2. [Text Conversion and Substitution](https://catonmat.net/awk-one-liners-explained-part-two)
+  3. [Selective Printing and Deleting of Certain Lines](https://catonmat.net/awk-one-liners-explained-part-three)
+  4. [String creation, array creation and update on selective printing of certain lines](https://catonmat.net/update-on-famous-awk-one-liners-explained)
 - Perl oneliners explained
-  1. File spacing (https://catonmat.net/perl-one-liners-explained-part-one)
-  2. Line Numbering (https://catonmat.net/perl-one-liners-explained-part-two)
-  3. Calculations (https://catonmat.net/perl-one-liners-explained-part-three)
-  4. String and Array Creation (https://catonmat.net/perl-one-liners-explained-part-four)
-  5. Text conversion and substitution (https://catonmat.net/perl-one-liners-explained-part-five)
-  6. Selective printing and deleting of lines (https://catonmat.net/perl-one-liners-explained-part-six)
-  7. Handy Regular Expressions (https://catonmat.net/perl-one-liners-explained-part-seven)
-  8. A Collection of Handy Perl Scripts (https://catonmat.net/announcing-perl1line-txt)
+  1. [File spacing](https://catonmat.net/perl-one-liners-explained-part-one)
+  2. [Line Numbering](https://catonmat.net/perl-one-liners-explained-part-two)
+  3. [Calculations](https://catonmat.net/perl-one-liners-explained-part-three)
+  4. [String and Array Creation](https://catonmat.net/perl-one-liners-explained-part-four)
+  5. [Text conversion and substitution](https://catonmat.net/perl-one-liners-explained-part-five)
+  6  [Selective printing and deleting of lines](https://catonmat.net/perl-one-liners-explained-part-six)
+  7. [Handy Regular Expressions](https://catonmat.net/perl-one-liners-explained-part-seven)
+  8. [A Collection of Handy Perl Scripts](https://catonmat.net/announcing-perl1line-txt)
 - Bash onliners (in progress...)
-  1. Working with files (https://catonmat.net/bash-one-liners-explained-part-one)
-  2. Working with strings (https://catonmat.net/bash-one-liners-explained-part-two)
-  3. All about redirections (https://catonmat.net/bash-one-liners-explained-part-three)
-  4. Working with history (https://catonmat.net/bash-one-liners-explained-part-four)
-  5. Navigating around (https://catonmat.net/bash-one-liners-explained-part-five)
-- Curl cookbook: https://catonmat.net/cookbooks/curl
+  1. [Working with files](https://catonmat.net/bash-one-liners-explained-part-one)
+  2. [Working with strings](https://catonmat.net/bash-one-liners-explained-part-two)
+  3. [All about redirections](https://catonmat.net/bash-one-liners-explained-part-three)
+  4. [Working with history](https://catonmat.net/bash-one-liners-explained-part-four)
+  5. [Navigating around](https://catonmat.net/bash-one-liners-explained-part-five)
+- [Curl cookbook](https://catonmat.net/cookbooks/curl)
 
 # Networking
 
