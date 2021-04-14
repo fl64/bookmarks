@@ -34,7 +34,7 @@
 ### HTTP
 
 - Different approaches to HTTP routing in Go - https://benhoyt.com/writings/go-routing/
-
+- Simple GoLang HTTP Logging Middleware - https://arunvelsriram.dev/simple-golang-http-logging-middleware
 ### REST
 
 - Creating a Production-Ready Rest API With Go https://link.medium.com/xCc420aYLeb

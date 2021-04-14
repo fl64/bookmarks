@@ -116,77 +116,74 @@
 
 #### Traefik
 
-- Traefik v2 guide by examples https://github.com/DoTheEvo/Traefik-v2-examples
-- The Cloud Native Edge Router - https://blog.yongweilun.me/traefik-in-actions-the-cloud-native-edge-router
+- [Traefik v2 guide by examples](https://github.com/DoTheEvo/Traefik-v2-examples)
+- [The Cloud Native Edge Router](https://blog.yongweilun.me/traefik-in-actions-the-cloud-native-edge-router)
 
 #### Nginx
 
-- Check configs - https://github.com/yandex/gixy `pip install gixy`
-- Nginx Configuration Snippets - https://github.com/arbabnazar/nginx-conf
-- Nginx Admin's Handbook - https://github.com/trimstray/nginx-admins-handbook
-- Nginx config generator: https://www.digitalocean.com/community/tools/nginx
+- [Check configs](https://github.com/yandex/gixy) `pip install gixy`
+- [Nginx Configuration Snippets](https://github.com/arbabnazar/nginx-conf)
+- [Nginx Admin's Handbook](https://github.com/trimstray/nginx-admins-handbook)
+- [Nginx config generator](https://www.digitalocean.com/community/tools/nginx)
 
 # Services
 
-- Selfhosted services: https://github.com/Kickball/awesome-selfhosted
+- [Selfhosted services](https://github.com/Kickball/awesome-selfhosted)
 
 ### Mail
 
-- Your E-Mail Validation Logic is Wrong: https://www.netmeister.org/blog/email.html
+- [Your E-Mail Validation Logic is Wrong](https://www.netmeister.org/blog/email.html)
 
 ### Message Queue
 
-- Почему Kafka такая быстрая - https://habr.com/ru/company/southbridge/blog/530498/
+- [Почему Kafka такая быстрая](https://habr.com/ru/company/southbridge/blog/530498/)
 
 ### DB
 
 - MongoDB
-  - Виды репликации в MongoDB https://habr.com/ru/company/otus/blog/521302/
-  - Кластерные возможности MongoDB https://www.youtube.com/watch?v=KQqidRmWEks
+  - [Виды репликации в MongoDB](https://habr.com/ru/company/otus/blog/521302/)
+  - [Кластерные возможности MongoDB 🎥](https://www.youtube.com/watch?v=KQqidRmWEks)
 
 # DevOps
 
 ### Ansible
 
-- Ansible Vagrant Examples - https://github.com/geerlingguy/ansible-vagrant-examples
-- Ansible идемпотентный - https://habr.com/ru/post/536340/ | https://www.youtube.com/watch?v=1-lRS05NrLc
+- [Ansible Vagrant Examples](https://github.com/geerlingguy/ansible-vagrant-examples)
+- [Ansible идемпотентный](https://habr.com/ru/post/536340/) | [🎥](https://www.youtube.com/watch?v=1-lRS05NrLc)
 - Testing
   - Podman and molecule
-    - https://www.ansible.com/blog/developing-and-testing-ansible-roles-with-molecule-and-podman-part-1
-    - https://www.ansible.com/blog/developing-and-testing-ansible-roles-with-molecule-and-podman-part-2
+    - [Developing and Testing Ansible Roles with Molecule and Podman - Part 1](https://www.ansible.com/blog/developing-and-testing-ansible-roles-with-molecule-and-podman-part-1)
+    - [Developing and Testing Ansible Roles with Molecule and Podman - Part 2](https://www.ansible.com/blog/developing-and-testing-ansible-roles-with-molecule-and-podman-part-2)
 
 ### Service Discovery
 
-- Service Discovery в распределенных системах на примере Consul (https://habr.com/ru/post/487706/)
+- [Service Discovery в распределенных системах на примере Consul](https://habr.com/ru/post/487706/)
 
 ### Docker
 
-- Containers from Scratch - https://ericchiang.github.io/post/containers-from-scratch/
-- How Docker Container Networking Works - Mimic It Using Linux Network Namespaces (https://dev.to/polarbit/how-docker-container-networking-works-mimic-it-using-linux-network-namespaces-9mj)
+- [Containers from Scratch](https://ericchiang.github.io/post/containers-from-scratch/)
+- [How Docker Container Networking Works - Mimic It Using Linux Network Namespaces](https://dev.to/polarbit/how-docker-container-networking-works-mimic-it-using-linux-network-namespaces-9mj)
 - Docker swarm:
-  - https://dev.vividbreeze.com/docker-swarm-single-node/
-  - https://dev.vividbreeze.com/docker-swarm-multiple-nodes/
-  - https://dev.vividbreeze.com/docker-networking-bridge-network/
-  - https://dev.vividbreeze.com/docker-networking-overlay-network/
+  - [Docker Swarm – Single Node](https://dev.vividbreeze.com/docker-swarm-single-node/)
+  - [Docker Swarm – Multiply Nodes](https://dev.vividbreeze.com/docker-swarm-multiple-nodes/)
+  - [Docker Swarm – Bridge Network](https://dev.vividbreeze.com/docker-networking-bridge-network/)
+  - [Docker Swarm – Overlay Network](https://dev.vividbreeze.com/docker-networking-overlay-network/)
 - Docker overlay networks
-  - https://blog.revolve.team/2017/04/25/deep-dive-into-docker-overlay-networks-part-1/
-  - https://blog.revolve.team/2017/05/09/deep-dive-into-docker-overlay-networks-part-2/
-  - https://blog.revolve.team/2017/08/20/deep-dive-3-into-docker-overlay-networks-part-3/'
-    - https://www.youtube.com/watch?v=b3XDl0YsVsg&feature=emb_imp_woyt
-- Docker resource management via Cgroups and systemd: https://baykara.medium.com/docker-resource-management-via-cgroups-and-systemd-633b093a835c
+  - [Deep dive into Docker Overlay Networks : Part 1](https://blog.revolve.team/2017/04/25/deep-dive-into-docker-overlay-networks-part-1/)
+  - [Deep dive into Docker Overlay Networks : Part 2](https://blog.revolve.team/2017/05/09/deep-dive-into-docker-overlay-networks-part-2/)
+  - [Deep dive into Docker Overlay Networks : Part 3](https://blog.revolve.team/2017/08/20/deep-dive-3-into-docker-overlay-networks-part-3/)
+    - [youtube](https://www.youtube.com/watch?v=b3XDl0YsVsg&feature=emb_imp_woyt)
+- [Docker resource management via Cgroups and systemd](https://baykara.medium.com/docker-resource-management-via-cgroups-and-systemd-633b093a835c)
 
 ### Dockerless
 
 - Dockerless
-  - part 1: Which tools to replace Docker with and why
-    (https://mkdev.me/en/posts/dockerless-part-1-which-tools-to-replace-docker-with-and-why)
-  - part 2: How to build container image for Rails application without - Docker and Dockerfile
-    (https://mkdev.me/en/posts/dockerless-part-2-how-to-build-container-image-for-rails-application-without-docker-and-dockerfile)
-  - part 3: Moving development environment to containers with -Podman
-    (https://mkdev.me/en/posts/dockerless-part-3-moving-development-environment-to-containers-with-podman)
-- The tool that really runs your containers: deep dive into runc and OCI specifications (https://mkdev.me/en/posts/the-tool-that-really-runs-your-containers-deep-dive-into-runc-and-oci-specifications)
-- Docker Images Without Docker — A Practical Guide - https://codefresh.io/devops/docker-images-without-docker-practical-guide/
-- Building containers without Docker - https://blog.alexellis.io/building-containers-without-docker/
+  - [part 1: Which tools to replace Docker with and why](https://mkdev.me/en/posts/dockerless-part-1-which-tools-to-replace-docker-with-and-why)
+  - [part 2: How to build container image for Rails application without - Docker and Dockerfile](https://mkdev.me/en/posts/dockerless-part-2-how-to-build-container-image-for-rails-application-without-docker-and-dockerfile)
+  - [part 3: Moving development environment to containers with -Podman](https://mkdev.me/en/posts/dockerless-part-3-moving-development-environment-to-containers-with-podman)
+- [The tool that really runs your containers: deep dive into runc and OCI specifications](https://mkdev.me/en/posts/the-tool-that-really-runs-your-containers-deep-dive-into-runc-and-oci-specifications)
+- [Docker Images Without Docker — A Practical Guide](https://codefresh.io/devops/docker-images-without-docker-practical-guide/)
+- [Building containers without Docker](https://blog.alexellis.io/building-containers-without-docker/)
 
 ### Monitoring
 
@@ -218,67 +215,67 @@
 
 ### k8s
 
-- Kubernetes-HA. Разворачиваем отказоустойчивый кластер Kubernetes c 5 мастерами (https://habr.com/ru/post/358264/)
-- Kubernetes Learning Resources https://docs.google.com/spreadsheets/d/10NltoF_6y3mBwUzQ4bcQLQfCE1BWSgUDcJXy-Qp2JEU/edit#gid=0
-- Awesome k8s: https://github.com/ramitsurana/awesome-kubernetes
-- What happens when k8s: https://github.com/jamiehannaford/what-happens-when-k8s
-- Как с fio проверить диски на достаточную производительность для etcd: https://habr.com/ru/company/flant/blog/505100/
-- Ломаем и чиним etcd-кластер https://habr.com/ru/post/544390/
+- [Kubernetes-HA. Разворачиваем отказоустойчивый кластер Kubernetes c 5 мастерами](https://habr.com/ru/post/358264/)
+- [Kubernetes Learning Resources](https://docs.google.com/spreadsheets/d/10NltoF_6y3mBwUzQ4bcQLQfCE1BWSgUDcJXy-Qp2JEU/edit#gid=0)
+- [Awesome k8s](https://github.com/ramitsurana/awesome-kubernetes)
+- [What happens when k8s](https://github.com/jamiehannaford/what-happens-when-k8s)
+- [Как с fio проверить диски на достаточную производительность для etcd](https://habr.com/ru/company/flant/blog/505100/)
+- [Ломаем и чиним etcd-кластер](https://habr.com/ru/post/544390/)
 
 # SRE
 
-- Linkedin school of SRE - https://github.com/linkedin/school-of-sre
-- Your Percentiles are incorrect P99 of the times. - https://medium.com/last9/your-percentiles-are-incorrect-p99-of-the-times-11436c97d524
+- [Linkedin school of SRE](https://github.com/linkedin/school-of-sre)
+- [Your Percentiles are incorrect P99 of the times](https://medium.com/last9/your-percentiles-are-incorrect-p99-of-the-times-11436c97d524)
 
 # Security
 
 - selinux
-  - Selinux https://github.com/SELinuxProject/selinux-notebook/blob/main/src/toc.md
+  - [Selinux notebook](https://github.com/SELinuxProject/selinux-notebook/blob/main/src/toc.md)
 - HTTP
-  - HTTP Headers: https://nullsweep.com/http-security-headers-a-complete-guide/
+  - [HTTP Headers](https://nullsweep.com/http-security-headers-a-complete-guide/)
 - PKI
-  - How TLS works - https://tls.ulfheim.net/
-  - How does https work - https://vitkarpov.me/posts/how-does-https-work/
-- 10 Useful Sudoers Configurations for Setting ‘sudo’ in Linux - https://www.tecmint.com/sudoers-configurations-for-setting-sudo-in-linux/
+  - [How TLS works](https://tls.ulfheim.net/)
+  - [How does https work](https://vitkarpov.me/posts/how-does-https-work/)
+- [10 Useful Sudoers Configurations for Setting ‘sudo’ in Linux](https://www.tecmint.com/sudoers-configurations-for-setting-sudo-in-linux/)
 
 # Dev
 
 - Git:
-  - Скринкаст по GIT https://www.youtube.com/playlist?list=PLDyvV36pndZHkDRik6kKF6gSb0N0W995h
+  - [Скринкаст по GIT](https://www.youtube.com/playlist?list=PLDyvV36pndZHkDRik6kKF6gSb0N0W995h)
   - Git series 1/3:
-    - Understanding git for real by exploring the .git directory: https://www.daolf.com/posts/git-series-part-1/
-    - Rebase and the golden rule explained: https://www.daolf.com/posts/git-series-part-2/
-    - Mastering git rebase: https://www.daolf.com/posts/git-series-part-3/
-  - Git hooks: https://github.com/aitemr/awesome-git-hooks
-  - Visual GIT guide https://marklodato.github.io/visual-git-guide/index-ru.html
-  - All needed git commands in one script - https://bitbucket.org/BitPusher16/dotfiles/raw/49a01d929dcaebcca68bbb1859b4ac1aea93b073/refs/git/git_examples.sh
-  - 7 Git tricks that changed my life - https://opensource.com/article/20/10/advanced-git-tips
-- The Architecture of Open Source Applications http://www.aosabook.org/en/index.html
+    - part1: [Understanding git for real by exploring the .git directory](https://www.daolf.com/posts/git-series-part-1/)
+    - part2: [Rebase and the golden rule explained](https://www.daolf.com/posts/git-series-part-2/)
+    - part3: [Mastering git rebase](https://www.daolf.com/posts/git-series-part-3/)
+  - [Git hooks](https://github.com/aitemr/awesome-git-hooks)
+  - [Visual GIT guide](https://marklodato.github.io/visual-git-guide/index-ru.html)
+  - [All needed git commands in one script](https://bitbucket.org/BitPusher16/dotfiles/raw/49a01d929dcaebcca68bbb1859b4ac1aea93b073/refs/git/git_examples.sh)
+  - [7 Git tricks that changed my life](https://opensource.com/article/20/10/advanced-git-tips)
+- [The Architecture of Open Source Applications](http://www.aosabook.org/en/index.html)
 - Make:
-  - Makefile tutorial: http://makefiletutorial.com/
-  - New make: https://ru.makefile.site/
-  - Начало работы с Makefile: https://riptutorial.com/ru/makefile
-  - Makefile cheatsheets: https://devhints.io/makefile
+  - [Makefile tutorial](http://makefiletutorial.com/)
+  - [New make](https://ru.makefile.site/)
+  - [Начало работы с Makefile](https://riptutorial.com/ru/makefile)
+  - [Makefile cheatsheets](https://devhints.io/makefile)
 - DEB build:
-  - Build debian packages for simple shell scripts https://blog.packagecloud.io/eng/2016/12/15/howto-build-debian-package-containing-simple-shell-scripts/
-  - NFPM: https://goreleaser.com/customization/nfpm/
-  - Pragmatic Debian packaging https://vincent.bernat.ch/en/blog/2019-pragmatic-debian-packaging
+  - [Build debian packages for simple shell scripts](https://blog.packagecloud.io/eng/2016/12/15/howto-build-debian-package-containing-simple-shell-scripts/)
+  - [NFPM](https://goreleaser.com/customization/nfpm/)
+  - [Pragmatic Debian packaging](https://vincent.bernat.ch/en/blog/2019-pragmatic-debian-packaging)
 - REST
-  - JSON API – работаем по спецификации https://habr.com/ru/company/oleg-bunin/blog/433322/
+  - [JSON API – работаем по спецификации](https://habr.com/ru/company/oleg-bunin/blog/433322/)
 - Versioning
-  - Семантическое Версионирование 2.0.0: https://semver.org/lang/ru/
-  - Debian Version Numbers: https://readme.phys.ethz.ch/documentation/debian_version_numbers/
-  - Fedora Versioning Examples: https://fedoraproject.org/wiki/Package_Versioning_Examples
+  - [Семантическое Версионирование 2.0.0](https://semver.org/lang/ru/)
+  - [Debian Version Numbers](https://readme.phys.ethz.ch/documentation/debian_version_numbers/)
+  - [Fedora Versioning Examples](https://fedoraproject.org/wiki/Package_Versioning_Examples)
 - VIM
-  - Is Vim Really Not For You? A Beginner Guide - https://thevaluable.dev/vim-for-beginners/
-  - A Vim Guide for Intermediate Users - https://thevaluable.dev/vim-intermediate/
-  - 5 lines I put in a blank .vimrc - https://swordandsignals.com/2020/12/13/5-lines-in-vimrc.html
+  - [Is Vim Really Not For You? A Beginner Guide](https://thevaluable.dev/vim-for-beginners/)
+  - [A Vim Guide for Intermediate Users](https://thevaluable.dev/vim-intermediate/)
+  - [5 lines I put in a blank .vimrc](https://swordandsignals.com/2020/12/13/5-lines-in-vimrc.html)
 
 ## Softskills
 
-- Teamlead (https://github.com/tlbootcamp/tlroadmap/blob/master/skills/resource-manager/interview.md)
-- Sysadmin interview questions: https://github.com/trimstray/test-your-sysadmin-skills
-- Reverse interview https://github.com/kix/reverse-interview
+- [Teamlead](https://github.com/tlbootcamp/tlroadmap/blob/master/skills/resource-manager/interview.md)
+- [Sysadmin interview questions](https://github.com/trimstray/test-your-sysadmin-skills)
+- [Reverse interview](https://github.com/kix/reverse-interview)
 
 ## Other
 
