@@ -1,0 +1,10 @@
+---
+version: "3"
+services:
+  mitmproxy:
+    image: mitmproxy/mitmproxy
+    command: mitmweb --web-host 0.0.0.0 --ssl-insecure
+    network_mode: host
+    # ports:
+    #   - 8080:8080
+    #   - 8081:8081
