@@ -35,6 +35,7 @@
 
 - Different approaches to HTTP routing in Go - https://benhoyt.com/writings/go-routing/
 - Simple GoLang HTTP Logging Middleware - https://arunvelsriram.dev/simple-golang-http-logging-middleware
+
 ### REST
 
 - Creating a Production-Ready Rest API With Go https://link.medium.com/xCc420aYLeb
@@ -80,6 +81,7 @@ Equality - https://medium.com/golangspec/equality-in-golang-ff44da79b7f1
 - Thoughts’ Go Topic https://utcc.utoronto.ca/~cks/space/blog/__TopicGoWandering
 
 ## Other
-  - https://yourbasic.org/golang/
-  - https://goplay.space/ Playground http://goplay.x1unix.com/
-  - Тутор по го - пишем чат https://medium.com/@nqbao/writing-a-chat-server-in-go-3b61ccc2a8ed
+
+- https://yourbasic.org/golang/
+- https://goplay.space/ Playground http://goplay.x1unix.com/
+- Тутор по го - пишем чат https://medium.com/@nqbao/writing-a-chat-server-in-go-3b61ccc2a8ed

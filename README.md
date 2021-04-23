@@ -221,6 +221,8 @@
 - [What happens when k8s](https://github.com/jamiehannaford/what-happens-when-k8s)
 - [Как с fio проверить диски на достаточную производительность для etcd](https://habr.com/ru/company/flant/blog/505100/)
 - [Ломаем и чиним etcd-кластер](https://habr.com/ru/post/544390/)
+- [Kubernetes by kubeadm config yamls](https://medium.com/@kosta709/kubernetes-by-kubeadm-config-yamls-94e2ee11244)
+- [Diving into Kubernetes MutatingAdmissionWebhook](https://medium.com/ibm-cloud/diving-into-kubernetes-mutatingadmissionwebhook-6ef3c5695f74)
 
 # SRE
 
