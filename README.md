@@ -26,8 +26,14 @@
   - [part1](https://habr.com/ru/post/540104/)
   - [part2](https://habr.com/ru/post/541214/)
 - Linux Boot Process [Part 1](https://cloudchef.medium.com/linux-boot-process-part-1-e8fea015dd66), [Part 2](https://cloudchef.medium.com/linux-boot-process-part-2-bd7514913495)
-
-
+- Control groups:
+  - [part 1: On the history of process grouping](https://lwn.net/Articles/603762/)
+  - [part 2: On the different sorts of hierarchies](https://lwn.net/Articles/604413/)
+  - [part 3: First steps to control](https://lwn.net/Articles/605039/)
+  - [part 4: On accounting](https://lwn.net/Articles/606004/)
+  - [part 5: The cgroup hierarchy](https://lwn.net/Articles/606699/)
+  - [part 6: A look under the hood](https://lwn.net/Articles/606925/)
+  - [part 7: To unity and beyond](https://lwn.net/Articles/608425/)
 ### Perfomance
 
 - [How to Trace Linux System Calls in Production with Minimal Impact on Performance](https://pingcap.com/blog/how-to-trace-linux-system-calls-in-production-with-minimal-impact-on-performance)
