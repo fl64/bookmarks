@@ -135,6 +135,7 @@
 - [Nginx Configuration Snippets](https://github.com/arbabnazar/nginx-conf)
 - [Nginx Admin's Handbook](https://github.com/trimstray/nginx-admins-handbook)
 - [Nginx config generator](https://www.digitalocean.com/community/tools/nginx)
+- [Nginx tuning](https://github.com/denji/nginx-tuning)
 
 # Services
 
