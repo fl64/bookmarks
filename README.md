@@ -34,6 +34,7 @@
   - [part 5: The cgroup hierarchy](https://lwn.net/Articles/606699/)
   - [part 6: A look under the hood](https://lwn.net/Articles/606925/)
   - [part 7: To unity and beyond](https://lwn.net/Articles/608425/)
+- [How are Unix pipes implemented?](https://toroid.org/unix-pipe-implementation)
 ### Perfomance
 
 - [How to Trace Linux System Calls in Production with Minimal Impact on Performance](https://pingcap.com/blog/how-to-trace-linux-system-calls-in-production-with-minimal-impact-on-performance)
