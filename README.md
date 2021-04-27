@@ -25,6 +25,8 @@
 - Почему линукс использует swap-файл
   - [part1](https://habr.com/ru/post/540104/)
   - [part2](https://habr.com/ru/post/541214/)
+- Linux Boot Process [Part 1](https://cloudchef.medium.com/linux-boot-process-part-1-e8fea015dd66), [Part 2](https://cloudchef.medium.com/linux-boot-process-part-2-bd7514913495)
+
 
 ### Perfomance
 
