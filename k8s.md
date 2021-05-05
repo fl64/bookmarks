@@ -10,3 +10,6 @@ k8s bookmarks
   - part 1 [Helm Based](https://www.velotio.com/engineering-blog/getting-started-with-kubernetes-operators-helm-based-part-1)
   - part 2 [Ansible Based](https://www.velotio.com/engineering-blog/getting-started-with-kubernetes-operators-ansible-based-part-2)
   - part 3 [go Based](https://www.velotio.com/engineering-blog/getting-started-with-kubernetes-operators-golang-based-part-3)
+
+## other
+- [What happens when ... Kubernetes edition!](https://github.com/jamiehannaford/what-happens-when-k8s)
