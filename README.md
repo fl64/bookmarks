@@ -4,28 +4,36 @@
 
 ### OS
 
-- A book-in-progress about the linux kernel and its insides. [linux-insides](https://github.com/0xAX/linux-insides)
-- [How to Trace Linux System Calls in Production with Minimal Impact on Performance](https://en.pingcap.com/blog/how-to-trace-linux-system-calls-in-production-with-minimal-impact-on-performance)
-- [How Much Memory Does the Process Really Take on Linux?](https://www.percona.com/blog/2020/09/11/how-much-memory-does-the-process-really-take-on-linux/)
-- [Как Linux работает с памятью](https://habr.com/ru/company/yandex/blog/250753/)
-- [Understanding disk usage](https://ownyourbits.com/2018/05/02/understanding-disk-usage-in-linux/)
-- [htop explained](https://peteris.rocks/blog/htop/)
-- [The UNIX `who` command](https://gauthier.uk/blog/who/)
+- Linux
+  - [Linux-insides](https://github.com/0xAX/linux-insides)
+  - [Linux-insides-ru](https://github.com/proninyaroslav/linux-insides-ru)
+  - [Fedora FAQ](https://russianfedora.github.io/FAQ/)
+- Boot
+  - Linux Boot Process [Part 1](https://cloudchef.medium.com/linux-boot-process-part-1-e8fea015dd66), [Part 2](https://cloudchef.medium.com/linux-boot-process-part-2-bd7514913495)
+  - [systemd boot process in Linux](https://insujang.github.io/2018-11-22/systemd-boot-process/)
+- Memory:
+  - [How Much Memory Does the Process Really Take on Linux?](https://www.percona.com/blog/2020/09/11/how-much-memory-does-the-process-really-take-on-linux/)
+  - [Как Linux работает с памятью](https://habr.com/ru/company/yandex/blog/250753/)
+  - Memory by Florent Brunea
+    - [Part 1: Memory Types](https://techtalk.intersec.com/2013/07/memory-part-1-memory-types/)
+    - [Part 2: Understanding Process memory](https://techtalk.intersec.com/2013/07/memory-part-2-understanding-process-memory/)
+    - [Part 3: Managing memory](https://techtalk.intersec.com/2013/08/memory-part-3-managing-memory/)
 - Load Average:
   - [Load Average в Linux: разгадка тайны](https://habr.com/ru/company/mailru/blog/335326/)
   - [Linux Load Averages: Solving the Mystery](http://www.brendangregg.com/blog/2017-08-08/linux-load-averages.html)
   - [Что такое Load Average и какую информацию он несет](https://interface31.ru/tech_it/2016/06/linux-nachinayushhim-chto-takoe-load-average-i-kakuyu-informaciyu-on-neset.html)
-- [Socat](https://link.medium.com/iJWlWdK3Zeb)
-- [VMstat explained](https://medium.com/@damianmyerscough/vmstat-explained-83b3e87493b3)
-- [SSL\TLS certificates stores](https://www.happyassassin.net/posts/2015/01/12/a-note-about-ssltls-trusted-certificate-stores-and-platforms/)
-- [Linux inside (rus)](https://github.com/proninyaroslav/linux-insides-ru)
-- [Fedora FAQ](https://russianfedora.github.io/FAQ/)
-- [How to Set Environment Variables in Linux and Mac: The Missing Manual](https://doppler.com/blog/how-to-set-environment-variables-in-linux-and-mac)
-- [Bash: about .bashrc, .bash_profile, .profile, /etc/profile, etc/bash.bashrc and others](https://www.stefaanlippens.net/bashrc_and_others/)
-- Почему линукс использует swap-файл
-  - [part1](https://habr.com/ru/post/540104/)
-  - [part2](https://habr.com/ru/post/541214/)
-- Linux Boot Process [Part 1](https://cloudchef.medium.com/linux-boot-process-part-1-e8fea015dd66), [Part 2](https://cloudchef.medium.com/linux-boot-process-part-2-bd7514913495)
+- Disks
+  - [Understanding disk usage](https://ownyourbits.com/2018/05/02/understanding-disk-usage-in-linux/)
+- Swap
+  - Почему линукс использует swap-файл
+    - [part1](https://habr.com/ru/post/540104/)
+    - [part2](https://habr.com/ru/post/541214/)
+- Misc
+  - [How to Trace Linux System Calls in Production with Minimal Impact on Performance](https://en.pingcap.com/blog/how-to-trace-linux-system-calls-in-production-with-minimal-impact-on-performance)
+  - [htop explained](https://peteris.rocks/blog/htop/)
+  - [The UNIX `who` command](https://gauthier.uk/blog/who/)
+  - [Socat](https://link.medium.com/iJWlWdK3Zeb)
+  - [VMstat explained](https://medium.com/@damianmyerscough/vmstat-explained-83b3e87493b3)
 - Control groups:
   - [part 1: On the history of process grouping](https://lwn.net/Articles/603762/)
   - [part 2: On the different sorts of hierarchies](https://lwn.net/Articles/604413/)
@@ -34,11 +42,11 @@
   - [part 5: The cgroup hierarchy](https://lwn.net/Articles/606699/)
   - [part 6: A look under the hood](https://lwn.net/Articles/606925/)
   - [part 7: To unity and beyond](https://lwn.net/Articles/608425/)
-- [How are Unix pipes implemented?](https://toroid.org/unix-pipe-implementation)
- - [systemd boot process in Linux](https://insujang.github.io/2018-11-22/systemd-boot-process/)
-### Perfomance
-
-- [How to Trace Linux System Calls in Production with Minimal Impact on Performance](https://pingcap.com/blog/how-to-trace-linux-system-calls-in-production-with-minimal-impact-on-performance)
+- Etc
+  - [SSL\TLS certificates stores](https://www.happyassassin.net/posts/2015/01/12/a-note-about-ssltls-trusted-certificate-stores-and-platforms/)
+  - [How to Set Environment Variables in Linux and Mac: The Missing Manual](https://doppler.com/blog/how-to-set-environment-variables-in-linux-and-mac)
+  - [Bash: about .bashrc, .bash_profile, .profile, /etc/profile, etc/bash.bashrc and others](https://www.stefaanlippens.net/bashrc_and_others/)
+  - [How are Unix pipes implemented?](https://toroid.org/unix-pipe-implementation)
 
 ### CLI
 
@@ -84,9 +92,9 @@
   3. [Calculations](https://catonmat.net/perl-one-liners-explained-part-three)
   4. [String and Array Creation](https://catonmat.net/perl-one-liners-explained-part-four)
   5. [Text conversion and substitution](https://catonmat.net/perl-one-liners-explained-part-five)
-  6  [Selective printing and deleting of lines](https://catonmat.net/perl-one-liners-explained-part-six)
-  7. [Handy Regular Expressions](https://catonmat.net/perl-one-liners-explained-part-seven)
-  8. [A Collection of Handy Perl Scripts](https://catonmat.net/announcing-perl1line-txt)
+     6 [Selective printing and deleting of lines](https://catonmat.net/perl-one-liners-explained-part-six)
+  6. [Handy Regular Expressions](https://catonmat.net/perl-one-liners-explained-part-seven)
+  7. [A Collection of Handy Perl Scripts](https://catonmat.net/announcing-perl1line-txt)
 - Bash onliners (in progress...)
   1. [Working with files](https://catonmat.net/bash-one-liners-explained-part-one)
   2. [Working with strings](https://catonmat.net/bash-one-liners-explained-part-two)
