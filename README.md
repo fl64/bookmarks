@@ -258,6 +258,7 @@
 - PKI
   - [How TLS works](https://tls.ulfheim.net/)
   - [How does https work](https://vitkarpov.me/posts/how-does-https-work/)
+  - [Illustrated X.509 Certificate](https://darutk.medium.com/illustrated-x-509-certificate-84aece2c5c2e)
 - [10 Useful Sudoers Configurations for Setting ‘sudo’ in Linux](https://www.tecmint.com/sudoers-configurations-for-setting-sudo-in-linux/)
 
 # Dev
