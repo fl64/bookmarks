@@ -259,6 +259,9 @@
   - [How TLS works](https://tls.ulfheim.net/)
   - [How does https work](https://vitkarpov.me/posts/how-does-https-work/)
   - [Illustrated X.509 Certificate](https://darutk.medium.com/illustrated-x-509-certificate-84aece2c5c2e)
+- Auth
+  - [OAuth Access Token Implementation](https://darutk.medium.com/oauth-access-token-implementation-30c2e8b90ff0)
+  - [OAuth 2.0 Client Authentication](https://darutk.medium.com/oauth-2-0-client-authentication-4b5f929305d4)
 - [10 Useful Sudoers Configurations for Setting ‘sudo’ in Linux](https://www.tecmint.com/sudoers-configurations-for-setting-sudo-in-linux/)
 
 # Dev
