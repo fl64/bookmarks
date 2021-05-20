@@ -313,3 +313,6 @@
 - https://github.com/trimstray/the-book-of-secret-knowledge
 - Build a Hugo static site in your browser using GitHub Codespaces - https://shotor.com/blog/build-a-hugo-static-site-in-your-browser-using-github-codespaces/
 - Compression Tools Compared https://www.linuxjournal.com/article/8051
+
+## VSCore
+- [Visual Studio Code is unable to watch for file changes in this large workspace" (error ENOSPC)](https://code.visualstudio.com/docs/setup/linux#_visual-studio-code-is-unable-to-watch-for-file-changes-in-this-large-workspace-error-enospc)
