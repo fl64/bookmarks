@@ -211,6 +211,10 @@
 - [Prometheus Monitoring : The Definitive Guide in 2019](https://devconnected.com/the-definitive-guide-to-prometheus-in-2019/)
 - [The Definitive Guide To InfluxDB In 2019](https://devconnected.com/the-definitive-guide-to-influxdb-in-2019/)
 - [Complete Node Exporter Mastery with Prometheus](https://devconnected.com/complete-node-exporter-mastery-with-prometheus/)
+- [Taking advantage of relabeling](https://promcon.io/2018-munich/slides/taking-advantage-of-relabeling.pdf)
+  - [youtube](https://www.youtube.com/watch?v=QufG6rjbsOM)
+- [Sample prometheus configuration explained](https://gist.github.com/reachlin/a98b90afcbff4604c90c183a0169474f)
+- [Monitoring-kubernetes-with-prometheus: examples](https://github.com/coreos/blog-examples/blob/master/monitoring-kubernetes-with-prometheus/prometheus.yml)
 - Elastiсsearch+Fluentd+Kibana
   - [Part 1](https://kamaok.org.ua/?p=3368)
   - [Part 2](https://kamaok.org.ua/?p=3386)
