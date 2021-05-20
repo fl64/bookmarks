@@ -232,7 +232,7 @@
   - [Мониторинг Postgresql: запросы](https://habr.com/ru/company/okmeter/blog/311028/)
   - [Мониторинг сетевого стека linux](https://habr.com/ru/company/okmeter/blog/309600/)
   - [Tracking request duration with Prometheus](https://povilasv.me/prometheus-tracking-request-duration/)
-
+- [metrics_ru_faq](https://github.com/freeseacher/metrics_ru_faq)
 ### GitOps
 
 - Что же такое GitOps? (https://habr.com/ru/company/flant/blog/458878/)
