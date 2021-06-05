@@ -105,10 +105,17 @@
 
 # Networking
 
+- [High Performance Browser Networking](https://hpbn.co/)
 - rsync
   - [How rsync works](https://rsync.samba.org/how-rsync-works.html)
   - [The fastest remote directory rsync over ssh](https://gist.github.com/KartikTalwar/4393116)
 - [SDSM](https://github.com/eucariot/SDSM)
+- [TCP connection in slow motion](https://federico.defaveri.org/2021/05/23/tcp-connection-in-slow-motion/)
+- Network address translation
+  - [part1](https://fedoramagazine.org/network-address-translation-part-1-packet-tracing/)
+  - [part2](https://fedoramagazine.org/network-address-translation-part-2-the-conntrack-tool/)
+  - [part3](https://fedoramagazine.org/conntrack-event-framework/)
+  - [part4](https://fedoramagazine.org/network-address-translation-part-4-conntrack-troubleshooting/)
 - [How NAT traversal works?](https://tailscale.com/blog/how-nat-traversal-works/)
 - [VXLAN & Linux](https://vincent.bernat.ch/en/blog/2017-vxlan-linux)
 - [Multi-tier load-balancing with Linux](https://vincent.bernat.ch/en/blog/2018-multi-tier-loadbalancer)
@@ -207,6 +214,8 @@
 
 ### Monitoring
 
+- Prometheus
+  - [Replace and remove a label in a Prometheus Query](https://medium.com/@texasdave2/replace-and-remove-a-label-in-a-prometheus-query-9500faa302f0)
 - [Monitoring Linux Processes using Prometheus and Grafana](https://devconnected.com/monitoring-linux-processes-using-prometheus-and-grafana/)
 - [Prometheus Monitoring : The Definitive Guide in 2019](https://devconnected.com/the-definitive-guide-to-prometheus-in-2019/)
 - [The Definitive Guide To InfluxDB In 2019](https://devconnected.com/the-definitive-guide-to-influxdb-in-2019/)
@@ -233,20 +242,10 @@
   - [Мониторинг сетевого стека linux](https://habr.com/ru/company/okmeter/blog/309600/)
   - [Tracking request duration with Prometheus](https://povilasv.me/prometheus-tracking-request-duration/)
 - [metrics_ru_faq](https://github.com/freeseacher/metrics_ru_faq)
+
 ### GitOps
 
 - Что же такое GitOps? (https://habr.com/ru/company/flant/blog/458878/)
-
-### k8s
-
-- [Kubernetes-HA. Разворачиваем отказоустойчивый кластер Kubernetes c 5 мастерами](https://habr.com/ru/post/358264/)
-- [Kubernetes Learning Resources](https://docs.google.com/spreadsheets/d/10NltoF_6y3mBwUzQ4bcQLQfCE1BWSgUDcJXy-Qp2JEU/edit#gid=0)
-- [Awesome k8s](https://github.com/ramitsurana/awesome-kubernetes)
-- [What happens when k8s](https://github.com/jamiehannaford/what-happens-when-k8s)
-- [Как с fio проверить диски на достаточную производительность для etcd](https://habr.com/ru/company/flant/blog/505100/)
-- [Ломаем и чиним etcd-кластер](https://habr.com/ru/post/544390/)
-- [Kubernetes by kubeadm config yamls](https://medium.com/@kosta709/kubernetes-by-kubeadm-config-yamls-94e2ee11244)
-- [Diving into Kubernetes MutatingAdmissionWebhook](https://medium.com/ibm-cloud/diving-into-kubernetes-mutatingadmissionwebhook-6ef3c5695f74)
 
 # SRE
 
@@ -270,6 +269,7 @@
 
 # Dev
 
+- [Command Line Interface Guidelines](https://clig.dev/)
 - Git:
   - [Скринкаст по GIT](https://www.youtube.com/playlist?list=PLDyvV36pndZHkDRik6kKF6gSb0N0W995h)
   - Git series 1/3:
@@ -315,4 +315,5 @@
 - Compression Tools Compared https://www.linuxjournal.com/article/8051
 
 ## VSCore
+
 - [Visual Studio Code is unable to watch for file changes in this large workspace" (error ENOSPC)](https://code.visualstudio.com/docs/setup/linux#_visual-studio-code-is-unable-to-watch-for-file-changes-in-this-large-workspace-error-enospc)

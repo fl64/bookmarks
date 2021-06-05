@@ -1,6 +1,26 @@
 # k8s bookmarks
 
-## Common k8s
+## k8s common
+
+### Install
+
+- [Kubernetes by kubeadm config yamls](https://medium.com/@kosta709/kubernetes-by-kubeadm-config-yamls-94e2ee11244)
+- Настройка НА-кластера Kubernetes на «голом железе» с kubeadm [p1](https://habr.com/ru/company/southbridge/blog/439562/), [p2](https://habr.com/ru/company/southbridge/blog/443110/), [p3](https://habr.com/ru/company/southbridge/blog/443658/)
+- [Kubernetes-HA. Разворачиваем отказоустойчивый кластер Kubernetes c 5 мастерами](https://habr.com/ru/post/358264/)
+
+### Common
+
+- [Kubernetes Examples](https://github.com/ContainerSolutions/kubernetes-examples)
+- [Kubernetes under the hood](https://github.com/mvallim/kubernetes-under-the-hood)
+- Resources and limits
+  - [How to rightsize the Kubernetes resource limits](https://sysdig.com/blog/kubernetes-resource-limits/)
+  - [Kubernetes Resource Management in Production](https://itnext.io/kubernetes-resource-management-in-production-d5382c904ed1)
+- Kubernetes configuration patterns
+  - [Patterns for Kubernetes primitives](https://developers.redhat.com/blog/2021/04/28/kubernetes-configuration-patterns-part-1-patterns-for-kubernetes-primitives#configuration_with_secrets))
+  - [Patterns for Kubernetes controllers](https://developers.redhat.com/blog/2021/05/05/kubernetes-configuration-patterns-part-2-patterns-for-kubernetes-controllers#configuration_with_central_configmaps)
+- [Kubernetes Learning Resources](https://docs.google.com/spreadsheets/d/10NltoF_6y3mBwUzQ4bcQLQfCE1BWSgUDcJXy-Qp2JEU/edit#gid=0)
+- [Awesome k8s](https://github.com/ramitsurana/awesome-kubernetes)
+- [What happens when k8s](https://github.com/jamiehannaford/what-happens-when-k8s)
 
 ### Deployment
 
@@ -27,12 +47,26 @@
 
 - [ArgoCD: a Helm chart deployment, and working with Helm Secrets via AWS KMS](https://itnext.io/argocd-a-helm-chart-deployment-and-working-with-helm-secrets-via-aws-kms-96509bfc5eb3)
 - [Argo: Workflow Engine for Kubernetes](https://itnext.io/argo-workflow-engine-for-kubernetes-7ae81eda1cc5)
+- [Create Argo CD local users](https://faun.pub/create-argo-cd-local-users-9e830db3763f?_branch_match_id=837017562568107773)
+- [Разбираемся с Custom Tooling в Argo CD](https://habr.com/ru/post/517966/)
+- [ArgoCD: деплой Helm-чарта и работа с Helm Secrets через AWS KMS](https://devsday.ru/blog/details/27843)
 
 ## VPA
 
 - [Вертикальное автомасштабирование pod'ов в Kubernetes: полное руководство](https://habr.com/ru/company/flant/blog/541642/)
 
+## PKI
+
+- [How to Generate a Self-Signed Certificate for Kubernetes](https://phoenixnap.com/kb/kubernetes-ssl-certificates)
+
+## Webhooks
+
+- [How to run your own admission controller on Kubernetes](https://blog.nillsf.com/index.php/2020/12/03/how-to-run-your-own-admission-controller-on-kubernetes/)
+- [Building a Kubernetes Mutating Admission Webhook](https://didil.medium.com/building-a-kubernetes-mutating-admission-webhook-7e48729523ed)
+- [Diving into Kubernetes MutatingAdmissionWebhook](https://medium.com/ibm-cloud/diving-into-kubernetes-mutatingadmissionwebhook-6ef3c5695f74)
+
 ## operators
+
 - [Writing a Kubernetes Operator: From Zero to Hero](https://anupamgogoi.medium.com/writing-a-kubernetes-operator-from-zero-to-hero-8ca5dc2462b7) [rus](https://habr.com/ru/company/southbridge/blog/556860/?utm_source=habrahabr&utm_medium=rss&utm_campaign=556860)
 - [shell-operator v1.0.0: долгожданный релиз нашего проекта для Kubernetes-операторов](https://habr.com/ru/company/flant/blog/551456/)
 - [Kubernetes Operators by Example](https://codeburst.io/kubernetes-operators-by-example-99a77ea4ac43)
@@ -43,9 +77,15 @@
   - part 2 [Ansible Based](https://www.velotio.com/engineering-blog/getting-started-with-kubernetes-operators-ansible-based-part-2)
   - part 3 [go Based](https://www.velotio.com/engineering-blog/getting-started-with-kubernetes-operators-golang-based-part-3)
 
-
 ## Networking
+
 - [Network Policy Editor](https://editor.cilium.io/)
+
+## etcd
+
+- [Как с fio проверить диски на достаточную производительность для etcd](https://habr.com/ru/company/flant/blog/505100/)
+- [Ломаем и чиним etcd-кластер](https://habr.com/ru/post/544390/)
+
 ## other
 
 - [What happens when ... Kubernetes edition!](https://github.com/jamiehannaford/what-happens-when-k8s)
