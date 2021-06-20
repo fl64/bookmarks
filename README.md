@@ -24,6 +24,7 @@
   - [Что такое Load Average и какую информацию он несет](https://interface31.ru/tech_it/2016/06/linux-nachinayushhim-chto-takoe-load-average-i-kakuyu-informaciyu-on-neset.html)
 - Disks
   - [Understanding disk usage](https://ownyourbits.com/2018/05/02/understanding-disk-usage-in-linux/)
+  - [Кое-что об inode](https://habr.com/ru/post/462849/)
 - Swap
   - Почему линукс использует swap-файл
     - [part1](https://habr.com/ru/post/540104/)
@@ -224,6 +225,13 @@
   - [youtube](https://www.youtube.com/watch?v=QufG6rjbsOM)
 - [Sample prometheus configuration explained](https://gist.github.com/reachlin/a98b90afcbff4604c90c183a0169474f)
 - [Monitoring-kubernetes-with-prometheus: examples](https://github.com/coreos/blog-examples/blob/master/monitoring-kubernetes-with-prometheus/prometheus.yml)
+- Prometheus TSDB
+  - [Part 1: The Head Block](https://ganeshvernekar.com/blog/prometheus-tsdb-the-head-block/)
+  - [Part 2: WAL and Checkpoint](https://ganeshvernekar.com/blog/prometheus-tsdb-wal-and-checkpoint/)
+  - [Part 3: Memory Mapping of Head Chunks from Disk](https://ganeshvernekar.com/blog/prometheus-tsdb-mmapping-head-chunks-from-disk/)
+  - [Part 4: Persistent Block and its Index](https://ganeshvernekar.com/blog/prometheus-tsdb-persistent-block-and-its-index/)
+  - [Part 5: Queries](https://ganeshvernekar.com/blog/prometheus-tsdb-queries/)
+
 - Elastiсsearch+Fluentd+Kibana
   - [Part 1](https://kamaok.org.ua/?p=3368)
   - [Part 2](https://kamaok.org.ua/?p=3386)
