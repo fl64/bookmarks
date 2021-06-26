@@ -3,11 +3,12 @@
 ## k8s common
 
 ### Install
-
+- [Guide: Kubernetes Multi-Master HA Cluster with kubeadm](https://tansanrao.com/kubernetes-ha-cluster-with-kubeadm/)
 - [Kubernetes by kubeadm config yamls](https://medium.com/@kosta709/kubernetes-by-kubeadm-config-yamls-94e2ee11244)
 - Настройка НА-кластера Kubernetes на «голом железе» с kubeadm [p1](https://habr.com/ru/company/southbridge/blog/439562/), [p2](https://habr.com/ru/company/southbridge/blog/443110/), [p3](https://habr.com/ru/company/southbridge/blog/443658/)
 - [Kubernetes-HA. Разворачиваем отказоустойчивый кластер Kubernetes c 5 мастерами](https://habr.com/ru/post/358264/)
 - [Packer, Terraform и Ansible: деплой кластера Kubernetes за час](https://habr.com/ru/company/croc/blog/492616/)
+- [Upgrading Homelab Kubernetes Cluster from 1.20 to 1.21](https://www.lisenet.com/2021/upgrading-homelab-kubernetes-cluster-from-1-20-to-1-21/)
 
 ### Common
 
