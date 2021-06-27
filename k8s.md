@@ -10,6 +10,9 @@
 - [Packer, Terraform и Ansible: деплой кластера Kubernetes за час](https://habr.com/ru/company/croc/blog/492616/)
 - [Upgrading Homelab Kubernetes Cluster from 1.20 to 1.21](https://www.lisenet.com/2021/upgrading-homelab-kubernetes-cluster-from-1-20-to-1-21/)
 
+## Tshoot
+- [Breaking down and fixing Kubernetes](https://itnext.io/breaking-down-and-fixing-kubernetes-4df2f22f87c3)
+
 ### Common
 
 - [Kubernetes Overview Diagrams](https://brennerm.github.io/posts/kubernetes-overview-diagrams.html)
@@ -54,6 +57,7 @@
 ## PKI
 
 - [How to Generate a Self-Signed Certificate for Kubernetes](https://phoenixnap.com/kb/kubernetes-ssl-certificates)
+- [Что делать, если протухли сертификаты и кластер превратился в тыкву?](https://habr.com/ru/company/southbridge/blog/465733/)
 
 ## Webhooks
 

@@ -82,6 +82,9 @@
   1. [File Spacing, Numbering and Text Conversion and Substitution](https://catonmat.net/sed-one-liners-explained-part-one)
   2. [Selective Printing of Certain Lines](https://catonmat.net/sed-one-liners-explained-part-two)
   3. [Selective Deletion of Certain Lines and Special Applications](https://catonmat.net/sed-one-liners-explained-part-three)
+  4. [Part I: File Spacing, Numbering and Text Conversion and Substitution](https://catonmat.net/sed-one-liners-explained-part-one)
+  5. [Part II: Selective Printing of Certain Lines](https://catonmat.net/sed-one-liners-explained-part-two)
+  6. [Part III: Selective Deletion of Certain Lines and Special Applications](https://catonmat.net/sed-one-liners-explained-part-three)
 - AWK oneliners explained:
   1. [File Spacing, Numbering and Calculations](https://catonmat.net/awk-one-liners-explained-part-one)
   2. [Text Conversion and Substitution](https://catonmat.net/awk-one-liners-explained-part-two)
