@@ -110,6 +110,8 @@
 # Networking
 
 - [High Performance Browser Networking](https://hpbn.co/)
+- [How 1500 bytes became the MTU of the internet](https://blog.benjojo.co.uk/post/why-is-ethernet-mtu-1500)
+- [Cheat Sheet on Curl Performance Metrics: how to benchmark server latency with curl](https://speedtestdemon.com/a-guide-to-curls-performance-metrics-how-to-analyze-a-speed-test-result/)
 - rsync
   - [How rsync works](https://rsync.samba.org/how-rsync-works.html)
   - [The fastest remote directory rsync over ssh](https://gist.github.com/KartikTalwar/4393116)
@@ -134,6 +136,10 @@
   - [Anatomy of a Linux DNS Lookup – Part IV](https://zwischenzugs.com/2018/08/06/anatomy-of-a-linux-dns-lookup-part-iv/)
   - [Anatomy of a Linux DNS Lookup – Part V](https://zwischenzugs.com/2018/09/13/anatomy-of-a-linux-dns-lookup-part-v-two-debug-nightmares/)
 - [ipv4 route lookuop](https://vincent.bernat.ch/en/blog/2017-ipv4-route-lookup-linux)
+
+## LB/HA
+
+- [The Patterns of Scalable, Reliable, and Performant Large-Scale Systems](https://github.com/binhnguyennus/awesome-scalability)
 
 ### VPN
 
@@ -229,6 +235,7 @@
 - [Sample prometheus configuration explained](https://gist.github.com/reachlin/a98b90afcbff4604c90c183a0169474f)
 - [Monitoring-kubernetes-with-prometheus: examples](https://github.com/coreos/blog-examples/blob/master/monitoring-kubernetes-with-prometheus/prometheus.yml)
 - Prometheus TSDB
+
   - [Part 1: The Head Block](https://ganeshvernekar.com/blog/prometheus-tsdb-the-head-block/)
   - [Part 2: WAL and Checkpoint](https://ganeshvernekar.com/blog/prometheus-tsdb-wal-and-checkpoint/)
   - [Part 3: Memory Mapping of Head Chunks from Disk](https://ganeshvernekar.com/blog/prometheus-tsdb-mmapping-head-chunks-from-disk/)

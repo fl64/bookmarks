@@ -14,7 +14,7 @@
 - [Breaking down and fixing Kubernetes](https://itnext.io/breaking-down-and-fixing-kubernetes-4df2f22f87c3)
 
 ### Common
-
+- [47 Things To Become a Kubernetes Expert](https://ymmt2005.hatenablog.com/entry/k8s-things)
 - [Kubernetes Overview Diagrams](https://brennerm.github.io/posts/kubernetes-overview-diagrams.html)
 - [Kubernetes Examples](https://github.com/ContainerSolutions/kubernetes-examples)
 - [Kubernetes under the hood](https://github.com/mvallim/kubernetes-under-the-hood)
@@ -27,6 +27,9 @@
 - [Kubernetes Learning Resources](https://docs.google.com/spreadsheets/d/10NltoF_6y3mBwUzQ4bcQLQfCE1BWSgUDcJXy-Qp2JEU/edit#gid=0)
 - [Awesome k8s](https://github.com/ramitsurana/awesome-kubernetes)
 - [What happens when k8s](https://github.com/jamiehannaford/what-happens-when-k8s)
+- [What happens when Kubectl Run is executed?](https://link.medium.com/dsrKX2mvKhb)
+- [How does 'kubectl exec' work? / Docker shim](https://erkanerol.github.io/post/how-kubectl-exec-works/)
+- [How It Works — kubectl exec / CRI-O](https://itnext.io/how-it-works-kubectl-exec-e31325daa910)
 - Deployment
   - Kubernetes Deployment Antipatterns
     - [part 1](https://medium.com/containers-101/kubernetes-deployment-antipatterns-part-1-9e7b54a08b9)
