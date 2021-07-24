@@ -3,6 +3,7 @@
 ## k8s common
 
 ### Install
+
 - [Guide: Kubernetes Multi-Master HA Cluster with kubeadm](https://tansanrao.com/kubernetes-ha-cluster-with-kubeadm/)
 - [Kubernetes by kubeadm config yamls](https://medium.com/@kosta709/kubernetes-by-kubeadm-config-yamls-94e2ee11244)
 - Настройка НА-кластера Kubernetes на «голом железе» с kubeadm [p1](https://habr.com/ru/company/southbridge/blog/439562/), [p2](https://habr.com/ru/company/southbridge/blog/443110/), [p3](https://habr.com/ru/company/southbridge/blog/443658/)
@@ -11,9 +12,11 @@
 - [Upgrading Homelab Kubernetes Cluster from 1.20 to 1.21](https://www.lisenet.com/2021/upgrading-homelab-kubernetes-cluster-from-1-20-to-1-21/)
 
 ## Tshoot
+
 - [Breaking down and fixing Kubernetes](https://itnext.io/breaking-down-and-fixing-kubernetes-4df2f22f87c3)
 
 ### Common
+
 - [47 Things To Become a Kubernetes Expert](https://ymmt2005.hatenablog.com/entry/k8s-things)
 - [Kubernetes Overview Diagrams](https://brennerm.github.io/posts/kubernetes-overview-diagrams.html)
 - [Kubernetes Examples](https://github.com/ContainerSolutions/kubernetes-examples)
@@ -21,6 +24,10 @@
 - Resources and limits
   - [How to rightsize the Kubernetes resource limits](https://sysdig.com/blog/kubernetes-resource-limits/)
   - [Kubernetes Resource Management in Production](https://itnext.io/kubernetes-resource-management-in-production-d5382c904ed1)
+  - Ресурсы в Kubernetes
+    - Часть 1: [Память (Memory)](https://ealebed.github.io/posts/2019/%D1%80%D0%B5%D1%81%D1%83%D1%80%D1%81%D1%8B-%D0%B2-kubernetes-%D1%87%D0%B0%D1%81%D1%82%D1%8C-1-memory/)
+    - Часть 2: [Процессор (CPU)](https://ealebed.github.io/posts/2019/%D1%80%D0%B5%D1%81%D1%83%D1%80%D1%81%D1%8B-%D0%B2-kubernetes-%D1%87%D0%B0%D1%81%D1%82%D1%8C-2-cpu/)
+    Ресурсы в Kubernetes
 - Kubernetes configuration patterns
   - [Patterns for Kubernetes primitives](https://developers.redhat.com/blog/2021/04/28/kubernetes-configuration-patterns-part-1-patterns-for-kubernetes-primitives#configuration_with_secrets))
   - [Patterns for Kubernetes controllers](https://developers.redhat.com/blog/2021/05/05/kubernetes-configuration-patterns-part-2-patterns-for-kubernetes-controllers#configuration_with_central_configmaps)
