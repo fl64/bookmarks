@@ -284,6 +284,8 @@
   - [OAuth Access Token Implementation](https://darutk.medium.com/oauth-access-token-implementation-30c2e8b90ff0)
   - [OAuth 2.0 Client Authentication](https://darutk.medium.com/oauth-2-0-client-authentication-4b5f929305d4)
 - [10 Useful Sudoers Configurations for Setting ‘sudo’ in Linux](https://www.tecmint.com/sudoers-configurations-for-setting-sudo-in-linux/)
+- Vault
+  - [Managing SSH Access at Scale with HashiCorp Vault](https://www.hashicorp.com/blog/managing-ssh-access-at-scale-with-hashicorp-vault)
 
 # Dev
 
@@ -318,6 +320,9 @@
   - [Is Vim Really Not For You? A Beginner Guide](https://thevaluable.dev/vim-for-beginners/)
   - [A Vim Guide for Intermediate Users](https://thevaluable.dev/vim-intermediate/)
   - [5 lines I put in a blank .vimrc](https://swordandsignals.com/2020/12/13/5-lines-in-vimrc.html)
+- Python
+  - [Creating the Perfect Python Dockerfile](https://link.medium.com/UUD9rN51rhb)
+  - [Production Recipes: Flask App](https://www.toptal.com/flask/flask-production-recipes)
 
 ## Softskills
 

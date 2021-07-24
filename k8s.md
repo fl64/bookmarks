@@ -99,3 +99,7 @@
 
 - [Как с fio проверить диски на достаточную производительность для etcd](https://habr.com/ru/company/flant/blog/505100/)
 - [Ломаем и чиним etcd-кластер](https://habr.com/ru/post/544390/)
+
+## Other
+
+- [Running Vault and Consul on Kubernetes](https://testdriven.io/blog/running-vault-and-consul-on-kubernetes/)
