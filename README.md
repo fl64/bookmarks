@@ -187,6 +187,7 @@
 
 - [Ansible Vagrant Examples](https://github.com/geerlingguy/ansible-vagrant-examples)
 - [Ansible идемпотентный](https://habr.com/ru/post/536340/) | [🎥](https://www.youtube.com/watch?v=1-lRS05NrLc)
+- [Creating your first Ansible module](https://techforce1.nl/creating-your-first-ansible-module)
 - Testing
   - Podman and molecule
     - [Developing and Testing Ansible Roles with Molecule and Podman - Part 1](https://www.ansible.com/blog/developing-and-testing-ansible-roles-with-molecule-and-podman-part-1)
