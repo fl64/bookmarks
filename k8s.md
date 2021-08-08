@@ -27,7 +27,7 @@
   - Ресурсы в Kubernetes
     - Часть 1: [Память (Memory)](https://ealebed.github.io/posts/2019/%D1%80%D0%B5%D1%81%D1%83%D1%80%D1%81%D1%8B-%D0%B2-kubernetes-%D1%87%D0%B0%D1%81%D1%82%D1%8C-1-memory/)
     - Часть 2: [Процессор (CPU)](https://ealebed.github.io/posts/2019/%D1%80%D0%B5%D1%81%D1%83%D1%80%D1%81%D1%8B-%D0%B2-kubernetes-%D1%87%D0%B0%D1%81%D1%82%D1%8C-2-cpu/)
-    Ресурсы в Kubernetes
+      Ресурсы в Kubernetes
 - Kubernetes configuration patterns
   - [Patterns for Kubernetes primitives](https://developers.redhat.com/blog/2021/04/28/kubernetes-configuration-patterns-part-1-patterns-for-kubernetes-primitives#configuration_with_secrets))
   - [Patterns for Kubernetes controllers](https://developers.redhat.com/blog/2021/05/05/kubernetes-configuration-patterns-part-2-patterns-for-kubernetes-controllers#configuration_with_central_configmaps)
@@ -99,6 +99,15 @@
 
 - [Как с fio проверить диски на достаточную производительность для etcd](https://habr.com/ru/company/flant/blog/505100/)
 - [Ломаем и чиним etcd-кластер](https://habr.com/ru/post/544390/)
+
+## security
+
+- [NSA, CISA release Kubernetes Hardening Guidance](https://www.nsa.gov/News-Features/Feature-Stories/Article-View/Article/2716980/nsa-cisa-release-kubernetes-hardening-guidance/)
+- [RBAC](https://rbac.dev/)
+
+### SSO
+
+- [Kubernetes Single Sign On - A detailed guide](https://www.talkingquickly.co.uk/kubernetes-sso-a-detailed-guide)
 
 ## Other
 
