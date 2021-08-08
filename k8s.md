@@ -13,7 +13,7 @@
 
 ## Tshoot
 
-- [Breaking down and fixing Kubernetes](https://itnext.io/breaking-down-and-fixing-kubernetes-4df2f22f87c3)
+- [Breaking down and fixing Kubernetes](https://itnext.io/breaking-down-and-fixing-kubernetes-4df2f22f87c3) [ru](https://habr.com/ru/company/mailru/blog/567512/)
 
 ### Common
 
@@ -22,6 +22,7 @@
 - [Kubernetes Examples](https://github.com/ContainerSolutions/kubernetes-examples)
 - [Kubernetes under the hood](https://github.com/mvallim/kubernetes-under-the-hood)
 - Resources and limits
+  - [Who murdered my lovely Prometheus container in Kubernetes cluster?](https://engineering.linecorp.com/en/blog/prometheus-container-kubernetes-cluster/)
   - [How to rightsize the Kubernetes resource limits](https://sysdig.com/blog/kubernetes-resource-limits/)
   - [Kubernetes Resource Management in Production](https://itnext.io/kubernetes-resource-management-in-production-d5382c904ed1)
   - Ресурсы в Kubernetes
@@ -90,6 +91,7 @@
 - Kubernetes operators with Python
   - [#1: Creating CRDs](https://brennerm.github.io/posts/k8s-operators-with-python-part-1.html)
   - [#2: Implementing Controller](https://brennerm.github.io/posts/k8s-operators-with-python-part-2.html)
+- [Build a Highly Available Kubernetes Operator Using Golang](https://betterprogramming.pub/building-a-highly-available-kubernetes-operator-using-golang-fe4a44c395c2)
 
 ## Networking
 
@@ -112,3 +114,11 @@
 ## Other
 
 - [Running Vault and Consul on Kubernetes](https://testdriven.io/blog/running-vault-and-consul-on-kubernetes/)
+- [13 Best Practices for using Helm](https://codersociety.com/blog/articles/helm-best-practices)
+
+## Releases
+
+- [1.22](https://habr.com/ru/company/flant/blog/571184/)
+- [1.20](https://habr.com/ru/company/flant/blog/530924/)
+- [1.19](https://habr.com/ru/company/flant/blog/516322/)
+- [1.19](https://habr.com/ru/company/flant/blog/493284/)

@@ -111,7 +111,7 @@
 
 - [High Performance Browser Networking](https://hpbn.co/)
 - [How 1500 bytes became the MTU of the internet](https://blog.benjojo.co.uk/post/why-is-ethernet-mtu-1500)
-- [Cheat Sheet on Curl Performance Metrics: how to benchmark server latency with curl](https://speedtestdemon.com/a-guide-to-curls-performance-metrics-how-to-analyze-a-speed-test-result/)
+- [Cheat Sheet on Curl Performance Metrics: how to benchmark server latency with curl](https://speedtestdemon.com/a-guide-to-curls-performance-metrics-how-to-analyze-a-speed-test-result/) [ru](https://habr.com/ru/company/ruvds/blog/568614/)
 - rsync
   - [How rsync works](https://rsync.samba.org/how-rsync-works.html)
   - [The fastest remote directory rsync over ssh](https://gist.github.com/KartikTalwar/4393116)
@@ -199,6 +199,7 @@
 
 ### Docker
 
+- [Различия между Docker, containerd, CRI-O и runc](https://habr.com/ru/company/domclick/blog/566224/)
 - [Containers from Scratch](https://ericchiang.github.io/post/containers-from-scratch/)
 - [How Docker Container Networking Works - Mimic It Using Linux Network Namespaces](https://dev.to/polarbit/how-docker-container-networking-works-mimic-it-using-linux-network-namespaces-9mj)
 - Docker swarm:
@@ -226,6 +227,7 @@
 ### Monitoring
 
 - Prometheus
+
   - [PromQL Cheat Sheet](https://promlabs.com/promql-cheat-sheet/)
   - [Replace and remove a label in a Prometheus Query](https://medium.com/@texasdave2/replace-and-remove-a-label-in-a-prometheus-query-9500faa302f0)
   - [Monitoring Linux Processes using Prometheus and Grafana](https://devconnected.com/monitoring-linux-processes-using-prometheus-and-grafana/)
@@ -250,6 +252,7 @@
     - https://monitoring.mixins.dev/
 
 - Elastiсsearch+Fluentd+Kibana
+
   - [Part 1](https://kamaok.org.ua/?p=3368)
   - [Part 2](https://kamaok.org.ua/?p=3386)
   - [Part 3](https://kamaok.org.ua/?p=3397)
@@ -262,6 +265,10 @@
   - [Мониторинг сетевого стека linux](https://habr.com/ru/company/okmeter/blog/309600/)
   - [Tracking request duration with Prometheus](https://povilasv.me/prometheus-tracking-request-duration/)
 - [metrics_ru_faq](https://github.com/freeseacher/metrics_ru_faq)
+
+## IaC
+
+- [Соглашения об именовании в Terraform](https://habr.com/ru/company/otus/blog/571618/)
 
 ### GitOps
 
@@ -280,6 +287,7 @@
   - [HTTP Headers](https://nullsweep.com/http-security-headers-a-complete-guide/)
 - PKI
   - [How TLS works](https://tls.ulfheim.net/)
+  - [A complete overview of SSL/TLS and its cryptographic system](https://dev.to/techschoolguru/a-complete-overview-of-ssl-tls-and-its-cryptographic-system-36pd)
   - [How does https work](https://vitkarpov.me/posts/how-does-https-work/)
   - [Illustrated X.509 Certificate](https://darutk.medium.com/illustrated-x-509-certificate-84aece2c5c2e)
 - SSH
