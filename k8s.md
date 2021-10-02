@@ -97,6 +97,9 @@
 
 - [Network Policy Editor](https://editor.cilium.io/)
 
+## Monitoring
+- [Как настроить мониторинг событий в Kubernetes: 4 бесплатных инструмента](https://habr.com/ru/company/mailru/blog/570500/)
+
 ## etcd
 
 - [Как с fio проверить диски на достаточную производительность для etcd](https://habr.com/ru/company/flant/blog/505100/)

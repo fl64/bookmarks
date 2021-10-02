@@ -54,6 +54,7 @@
 - [Shell style guide](https://google.github.io/styleguide/shellguide.html)
 - [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line)
 - [Console services](https://github.com/chubin/awesome-console-services)
+- [An Opinionated Guide to xargs](https://www.oilshell.org/blog/2021/08/xargs.html)
 - BASH:
   - [Bash Job Control](https://copyconstruct.medium.com/bash-job-control-4a36da3e4aa7)
   - [Bash coprocess](https://copyconstruct.medium.com/bash-coprocess-2092a93ad912)
@@ -136,6 +137,7 @@
   - [Anatomy of a Linux DNS Lookup – Part IV](https://zwischenzugs.com/2018/08/06/anatomy-of-a-linux-dns-lookup-part-iv/)
   - [Anatomy of a Linux DNS Lookup – Part V](https://zwischenzugs.com/2018/09/13/anatomy-of-a-linux-dns-lookup-part-v-two-debug-nightmares/)
 - [ipv4 route lookuop](https://vincent.bernat.ch/en/blog/2017-ipv4-route-lookup-linux)
+- [URLs: It's complicated...](https://www.netmeister.org/blog/urls.html)
 
 ## LB/HA
 
@@ -183,7 +185,7 @@
 
 # DevOps
 
-### Ansible
+## Ansible
 
 - [Ansible Vagrant Examples](https://github.com/geerlingguy/ansible-vagrant-examples)
 - [Ansible идемпотентный](https://habr.com/ru/post/536340/) | [🎥](https://www.youtube.com/watch?v=1-lRS05NrLc)
@@ -193,11 +195,11 @@
     - [Developing and Testing Ansible Roles with Molecule and Podman - Part 1](https://www.ansible.com/blog/developing-and-testing-ansible-roles-with-molecule-and-podman-part-1)
     - [Developing and Testing Ansible Roles with Molecule and Podman - Part 2](https://www.ansible.com/blog/developing-and-testing-ansible-roles-with-molecule-and-podman-part-2)
 
-### Service Discovery
+## Service Discovery
 
 - [Service Discovery в распределенных системах на примере Consul](https://habr.com/ru/post/487706/)
 
-### Docker
+## Docker
 
 - [Различия между Docker, containerd, CRI-O и runc](https://habr.com/ru/company/domclick/blog/566224/)
 - [Containers from Scratch](https://ericchiang.github.io/post/containers-from-scratch/)
@@ -214,7 +216,7 @@
     - [youtube](https://www.youtube.com/watch?v=b3XDl0YsVsg&feature=emb_imp_woyt)
 - [Docker resource management via Cgroups and systemd](https://baykara.medium.com/docker-resource-management-via-cgroups-and-systemd-633b093a835c)
 
-### Dockerless
+## Dockerless
 
 - Dockerless
   - [part 1: Which tools to replace Docker with and why](https://mkdev.me/en/posts/dockerless-part-1-which-tools-to-replace-docker-with-and-why)
@@ -224,7 +226,7 @@
 - [Docker Images Without Docker — A Practical Guide](https://codefresh.io/devops/docker-images-without-docker-practical-guide/)
 - [Building containers without Docker](https://blog.alexellis.io/building-containers-without-docker/)
 
-### Monitoring
+## Monitoring
 
 - Prometheus
 
@@ -241,6 +243,8 @@
   - [Анализ TSDB в Prometheus 2](https://habr.com/ru/company/funcorp/blog/445370/)
   - [Prometheus federation LAB](https://github.com/blndev/prometheus-playground)
   - [How to troubleshoot remote write issues in Prometheus](https://grafana.com/blog/2021/04/12/how-to-troubleshoot-remote-write-issues-in-prometheus/?utm_source=tw&utm_medium=social)
+  - [Prometheus Cheat Sheet - How to Join Multiple Metrics (Vector Matching)](https://iximiuz.com/en/posts/prometheus-vector-matching/)
+  - [Understanding the Prometheus rate() function](https://www.metricfire.com/blog/understanding-the-prometheus-rate-function/)
   - Prometheus TSDB
     - [Part 1: The Head Block](https://ganeshvernekar.com/blog/prometheus-tsdb-the-head-block/)
     - [Part 2: WAL and Checkpoint](https://ganeshvernekar.com/blog/prometheus-tsdb-wal-and-checkpoint/)
@@ -270,7 +274,7 @@
 
 - [Соглашения об именовании в Terraform](https://habr.com/ru/company/otus/blog/571618/)
 
-### GitOps
+## GitOps
 
 - Что же такое GitOps? (https://habr.com/ru/company/flant/blog/458878/)
 
@@ -281,6 +285,7 @@
 
 # Security
 
+- [RBAC like it was meant to be](https://tailscale.com/blog/rbac-like-it-was-meant-to-be/)
 - selinux
   - [Selinux notebook](https://github.com/SELinuxProject/selinux-notebook/blob/main/src/toc.md)
 - HTTP
@@ -324,6 +329,8 @@
   - [Pragmatic Debian packaging](https://vincent.bernat.ch/en/blog/2019-pragmatic-debian-packaging)
 - REST
   - [JSON API – работаем по спецификации](https://habr.com/ru/company/oleg-bunin/blog/433322/)
+- Commits
+  - [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/#summary)
 - Versioning
   - [Семантическое Версионирование 2.0.0](https://semver.org/lang/ru/)
   - [Debian Version Numbers](https://readme.phys.ethz.ch/documentation/debian_version_numbers/)
