@@ -36,6 +36,7 @@
 - [Awesome k8s](https://github.com/ramitsurana/awesome-kubernetes)
 - [What happens when k8s](https://github.com/jamiehannaford/what-happens-when-k8s)
 - [What happens when Kubectl Run is executed?](https://link.medium.com/dsrKX2mvKhb)
+- [Why and How of Kubernetes Ingress (and Networking)](https://itnext.io/why-and-how-of-kubernetes-ingress-and-networking-6cb308ca03d2)
 - [How does 'kubectl exec' work? / Docker shim](https://erkanerol.github.io/post/how-kubectl-exec-works/)
 - [How It Works — kubectl exec / CRI-O](https://itnext.io/how-it-works-kubectl-exec-e31325daa910)
 - Deployment
@@ -64,6 +65,12 @@
 - [Create Argo CD local users](https://faun.pub/create-argo-cd-local-users-9e830db3763f?_branch_match_id=837017562568107773)
 - [Разбираемся с Custom Tooling в Argo CD](https://habr.com/ru/post/517966/)
 - [ArgoCD: деплой Helm-чарта и работа с Helm Secrets через AWS KMS](https://devsday.ru/blog/details/27843)
+- [ArgoCD with Kustomize and ksops](https://blog.devgenius.io/argocd-with-kustomize-and-ksops-2d43472e9d3b)
+- [argocd-vault-plugin](https://argocd-vault-plugin.readthedocs.io/en/stable/)
+
+### Flux
+
+- [Manage your Kubernetes clusters with Flux2](https://medium.com/alterway/manage-your-kubernetes-clusters-with-flux2-82dd1cfe2a6a)
 
 ## PKI
 
@@ -76,7 +83,9 @@
 - [How to run your own admission controller on Kubernetes](https://blog.nillsf.com/index.php/2020/12/03/how-to-run-your-own-admission-controller-on-kubernetes/)
 - [Building a Kubernetes Mutating Admission Webhook](https://didil.medium.com/building-a-kubernetes-mutating-admission-webhook-7e48729523ed)
 - [Diving into Kubernetes MutatingAdmissionWebhook](https://medium.com/ibm-cloud/diving-into-kubernetes-mutatingadmissionwebhook-6ef3c5695f74)
-
+- Getting Started to Write Your First Kubernetes Admission Webhook
+  - [part 1](https://medium.com/trendyol-tech/getting-started-to-write-your-first-kubernetes-admission-webhook-part-1-623f40c2adda)
+  - [part 2](https://medium.com/trendyol-tech/getting-started-to-write-your-first-kubernetes-admission-webhook-part-2-48d0b0b1780e)
 ## operators
 
 - [Writing a Kubernetes Operator: From Zero to Hero](https://anupamgogoi.medium.com/writing-a-kubernetes-operator-from-zero-to-hero-8ca5dc2462b7) [rus](https://habr.com/ru/company/southbridge/blog/556860/?utm_source=habrahabr&utm_medium=rss&utm_campaign=556860)
@@ -92,7 +101,12 @@
   - [#1: Creating CRDs](https://brennerm.github.io/posts/k8s-operators-with-python-part-1.html)
   - [#2: Implementing Controller](https://brennerm.github.io/posts/k8s-operators-with-python-part-2.html)
 - [Build a Highly Available Kubernetes Operator Using Golang](https://betterprogramming.pub/building-a-highly-available-kubernetes-operator-using-golang-fe4a44c395c2)
-
+- [Creating REDIS operator with kubebuilder](https://www.mo4tech.com/k8s-operator-introduction.html)
+- Github Repository Operator|Webhook with operator-sdk
+  - part 1 [Scaffold and first slice of the operator: creation of github repository](https://pnguyen.io/posts/test-drive-kubernetes-operator-1/)
+  - part 2 [Update and delete of github repository](https://pnguyen.io/posts/test-drive-kubernetes-operator-2/)
+  - part 3 [Creating of github repository by cloning another repository](https://pnguyen.io/posts/test-drive-kubernetes-operator-3/)
+  - part 4 [Validation using webhooks](https://pnguyen.io/posts/test-drive-kubernetes-operator-4/)
 ## Networking
 
 - [Network Policy Editor](https://editor.cilium.io/)

@@ -48,6 +48,7 @@
   - [How to Set Environment Variables in Linux and Mac: The Missing Manual](https://doppler.com/blog/how-to-set-environment-variables-in-linux-and-mac)
   - [Bash: about .bashrc, .bash_profile, .profile, /etc/profile, etc/bash.bashrc and others](https://www.stefaanlippens.net/bashrc_and_others/)
   - [How are Unix pipes implemented?](https://toroid.org/unix-pipe-implementation)
+  - [systemd playground](https://systemd-by-example.com/)
 
 ### CLI
 
@@ -62,6 +63,8 @@
   - [BASH Cheatsheet](https://devhints.io/bash)
   - [BASH script template](https://medium.com/better-programming/my-minimal-safe-bash-script-template-300759114040)
   - [Bash hackers wiki](https://wiki.bash-hackers.org/start)
+  - [Modern Bash (Zsh) Scripting](https://www.mulle-kybernetik.com/modern-bash-scripting/)
+  - [https://betterdev.blog/minimal-safe-bash-script-template/](https://betterdev.blog/minimal-safe-bash-script-template/)
 - SED:
   - [Sed - An Introduction and Tutorial by Bruce Barnett](https://www.grymoire.com/Unix/sed.html)
   - [sed, a stream editor](https://www.gnu.org/software/sed/manual/sed.html)
@@ -138,10 +141,12 @@
   - [Anatomy of a Linux DNS Lookup – Part V](https://zwischenzugs.com/2018/09/13/anatomy-of-a-linux-dns-lookup-part-v-two-debug-nightmares/)
 - [ipv4 route lookuop](https://vincent.bernat.ch/en/blog/2017-ipv4-route-lookup-linux)
 - [URLs: It's complicated...](https://www.netmeister.org/blog/urls.html)
+- [What's in a hostname?](https://www.netmeister.org/blog/hostnames.html)
 
 ## LB/HA
 
 - [The Patterns of Scalable, Reliable, and Performant Large-Scale Systems](https://github.com/binhnguyennus/awesome-scalability)
+- [Introduction to modern network load balancing and proxying](https://blog.envoyproxy.io/introduction-to-modern-network-load-balancing-and-proxying-a57f6ff80236) [ru](https://medium.com/southbridge/introduction-to-modern-network-load-balancing-and-proxying-52e8ca36adde)
 
 ### VPN
 
@@ -190,6 +195,7 @@
 - [Ansible Vagrant Examples](https://github.com/geerlingguy/ansible-vagrant-examples)
 - [Ansible идемпотентный](https://habr.com/ru/post/536340/) | [🎥](https://www.youtube.com/watch?v=1-lRS05NrLc)
 - [Creating your first Ansible module](https://techforce1.nl/creating-your-first-ansible-module)
+- [Deep dive into Ansible ad hoc commands](https://www.redhat.com/sysadmin/ansible-ad-hoc-commands)
 - Testing
   - Podman and molecule
     - [Developing and Testing Ansible Roles with Molecule and Podman - Part 1](https://www.ansible.com/blog/developing-and-testing-ansible-roles-with-molecule-and-podman-part-1)
@@ -214,6 +220,7 @@
   - [Deep dive into Docker Overlay Networks : Part 2](https://blog.revolve.team/2017/05/09/deep-dive-into-docker-overlay-networks-part-2/)
   - [Deep dive into Docker Overlay Networks : Part 3](https://blog.revolve.team/2017/08/20/deep-dive-3-into-docker-overlay-networks-part-3/)
     - [youtube](https://www.youtube.com/watch?v=b3XDl0YsVsg&feature=emb_imp_woyt)
+- [Container Networking Is Simple!](https://iximiuz.com/en/posts/container-networking-is-simple/)
 - [Docker resource management via Cgroups and systemd](https://baykara.medium.com/docker-resource-management-via-cgroups-and-systemd-633b093a835c)
 
 ## Dockerless
@@ -282,6 +289,7 @@
 
 - [Linkedin school of SRE](https://github.com/linkedin/school-of-sre)
 - [Your Percentiles are incorrect P99 of the times](https://medium.com/last9/your-percentiles-are-incorrect-p99-of-the-times-11436c97d524)
+- [SLO Alerting for Mortals](https://ervinbarta.com/2021/10/19/slo-alerting-for-mortals)
 
 # Security
 
@@ -356,6 +364,6 @@
 - Build a Hugo static site in your browser using GitHub Codespaces - https://shotor.com/blog/build-a-hugo-static-site-in-your-browser-using-github-codespaces/
 - Compression Tools Compared https://www.linuxjournal.com/article/8051
 
-## VSCore
+## VSCode
 
 - [Visual Studio Code is unable to watch for file changes in this large workspace" (error ENOSPC)](https://code.visualstudio.com/docs/setup/linux#_visual-studio-code-is-unable-to-watch-for-file-changes-in-this-large-workspace-error-enospc)
