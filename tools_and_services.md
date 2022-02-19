@@ -1,3 +1,7 @@
+## Env
+
+- direnv: https://github.com/direnv/direnv
+
 ## Secrets
 
 - SOPS: Editor of encrypted files that supports YAML, JSON, ENV, INI and BINARY formats and encrypts with AWS KMS, GCP KMS, Azure Key Vault and PGP

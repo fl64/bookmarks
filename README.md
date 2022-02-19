@@ -10,6 +10,7 @@
   - [Fedora FAQ](https://russianfedora.github.io/FAQ/)
 - Boot
   - Linux Boot Process [Part 1](https://cloudchef.medium.com/linux-boot-process-part-1-e8fea015dd66), [Part 2](https://cloudchef.medium.com/linux-boot-process-part-2-bd7514913495)
+  - [All-Stages-of-Linux-Booting-Process](https://github.com/nu11secur1ty/All-Stages-of-Linux-Booting-Process-)
   - [systemd boot process in Linux](https://insujang.github.io/2018-11-22/systemd-boot-process/)
 - Memory:
   - [How Much Memory Does the Process Really Take on Linux?](https://www.percona.com/blog/2020/09/11/how-much-memory-does-the-process-really-take-on-linux/)
@@ -30,6 +31,7 @@
     - [part1](https://habr.com/ru/post/540104/)
     - [part2](https://habr.com/ru/post/541214/)
 - Misc
+  - [Linux process priorities demystified](https://blog.sigma-star.at/post/2022/02/linux-proc-prios/)
   - [How to Trace Linux System Calls in Production with Minimal Impact on Performance](https://en.pingcap.com/blog/how-to-trace-linux-system-calls-in-production-with-minimal-impact-on-performance)
   - [htop explained](https://peteris.rocks/blog/htop/)
   - [The UNIX `who` command](https://gauthier.uk/blog/who/)
@@ -49,6 +51,7 @@
   - [Bash: about .bashrc, .bash_profile, .profile, /etc/profile, etc/bash.bashrc and others](https://www.stefaanlippens.net/bashrc_and_others/)
   - [How are Unix pipes implemented?](https://toroid.org/unix-pipe-implementation)
   - [systemd playground](https://systemd-by-example.com/)
+  - [Avoiding complexity with systemd](https://mgdm.net/weblog/systemd/)
 
 ### CLI
 
@@ -75,10 +78,6 @@
   - [A BIG collection of Unix/Linux 'find' command examples](https://alvinalexander.com/unix/edu/examples/find.shtml)
 - ZSH
   - [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins)
-
-### Tools
-
-- direnv: https://github.com/direnv/direnv
 
 ### SED\AWK\Perl\Bash\Curl oneliners
 
@@ -113,6 +112,7 @@
 
 # Networking
 
+- [Everything curl ](https://everything.curl.dev/)
 - [High Performance Browser Networking](https://hpbn.co/)
 - [How 1500 bytes became the MTU of the internet](https://blog.benjojo.co.uk/post/why-is-ethernet-mtu-1500)
 - [Cheat Sheet on Curl Performance Metrics: how to benchmark server latency with curl](https://speedtestdemon.com/a-guide-to-curls-performance-metrics-how-to-analyze-a-speed-test-result/) [ru](https://habr.com/ru/company/ruvds/blog/568614/)
@@ -148,21 +148,21 @@
 - [The Patterns of Scalable, Reliable, and Performant Large-Scale Systems](https://github.com/binhnguyennus/awesome-scalability)
 - [Introduction to modern network load balancing and proxying](https://blog.envoyproxy.io/introduction-to-modern-network-load-balancing-and-proxying-a57f6ff80236) [ru](https://medium.com/southbridge/introduction-to-modern-network-load-balancing-and-proxying-52e8ca36adde)
 
-### VPN
+## VPN
 
 - [Understanding systemd-resolved, Split DNS, and VPN Configuration](https://blogs.gnome.org/mcatanzaro/2020/12/17/understanding-systemd-resolved-split-dns-and-vpn-configuration/)
 - Wireguard
   - [Route-based VPN on Linux with WireGuard](https://vincent.bernat.ch/en/blog/2018-route-based-vpn-wireguard)
   - [An introduction to WireGuard VPN](https://jasoneckert.github.io/myblog/an-introduction-to-wireguard-vpn/)
 
-### Proxy
+## Proxy
 
-#### Traefik
+### Traefik
 
 - [Traefik v2 guide by examples](https://github.com/DoTheEvo/Traefik-v2-examples)
 - [The Cloud Native Edge Router](https://blog.yongweilun.me/traefik-in-actions-the-cloud-native-edge-router)
 
-#### Nginx
+### Nginx
 
 - [Check configs](https://github.com/yandex/gixy) `pip install gixy`
 - [Nginx Configuration Snippets](https://github.com/arbabnazar/nginx-conf)
@@ -174,15 +174,15 @@
 
 - [Selfhosted services](https://github.com/Kickball/awesome-selfhosted)
 
-### Mail
+## Mail
 
 - [Your E-Mail Validation Logic is Wrong](https://www.netmeister.org/blog/email.html)
 
-### Message Queue
+## Message Queue
 
 - [Почему Kafka такая быстрая](https://habr.com/ru/company/southbridge/blog/530498/)
 
-### DB
+## DB
 
 - MongoDB
   - [Виды репликации в MongoDB](https://habr.com/ru/company/otus/blog/521302/)
@@ -252,6 +252,7 @@
   - [How to troubleshoot remote write issues in Prometheus](https://grafana.com/blog/2021/04/12/how-to-troubleshoot-remote-write-issues-in-prometheus/?utm_source=tw&utm_medium=social)
   - [Prometheus Cheat Sheet - How to Join Multiple Metrics (Vector Matching)](https://iximiuz.com/en/posts/prometheus-vector-matching/)
   - [Understanding the Prometheus rate() function](https://www.metricfire.com/blog/understanding-the-prometheus-rate-function/)
+  - [Monitoring as Code на базе VictoriaMetrics и Grafana](https://habr.com/ru/post/568090/)
   - Prometheus TSDB
     - [Part 1: The Head Block](https://ganeshvernekar.com/blog/prometheus-tsdb-the-head-block/)
     - [Part 2: WAL and Checkpoint](https://ganeshvernekar.com/blog/prometheus-tsdb-wal-and-checkpoint/)

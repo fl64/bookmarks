@@ -10,6 +10,7 @@
 - [Kubernetes-HA. Разворачиваем отказоустойчивый кластер Kubernetes c 5 мастерами](https://habr.com/ru/post/358264/)
 - [Packer, Terraform и Ansible: деплой кластера Kubernetes за час](https://habr.com/ru/company/croc/blog/492616/)
 - [Upgrading Homelab Kubernetes Cluster from 1.20 to 1.21](https://www.lisenet.com/2021/upgrading-homelab-kubernetes-cluster-from-1-20-to-1-21/)
+- [Using dnsmasq with a local kind clusters](https://medium.com/@charled.breteche/using-dnsmasq-with-a-local-kind-clusters-9a27c8987073)
 
 ## Tshoot
 
@@ -46,7 +47,7 @@
     - [part 3](https://medium.com/containers-101/kubernetes-deployment-antipatterns-part-3-dfbdd2fd3292)
 - VPA
   - [Вертикальное автомасштабирование pod'ов в Kubernetes: полное руководство](https://habr.com/ru/company/flant/blog/541642/)
-
+- [Architecting Kubernetes clusters — choosing the best autoscaling strategy](https://learnk8s.io/kubernetes-autoscaling-strategies)
 ## flant
 
 - [Мониторинг ping'ов между узлами Kubernetes — наш рецепт](https://habr.com/ru/company/flant/blog/442798/)
@@ -60,13 +61,15 @@
 
 ### Argo
 
-- [ArgoCD: a Helm chart deployment, and working with Helm Secrets via AWS KMS](https://itnext.io/argocd-a-helm-chart-deployment-and-working-with-helm-secrets-via-aws-kms-96509bfc5eb3)
+- [ArgoCD: a Helm chart deployment, and working with Helm Secrets via AWS KMS](https://itnext.io/argocd-a-helm-chart-deployment-and-working-with-helm-secrets-via-aws-kms-96509bfc5http://elatov.github.io/2020/01/alerting-with-prometheus-on-kubernetes/3)
 - [Argo: Workflow Engine for Kubernetes](https://itnext.io/argo-workflow-engine-for-kubernetes-7ae81eda1cc5)
 - [Create Argo CD local users](https://faun.pub/create-argo-cd-local-users-9e830db3763f?_branch_match_id=837017562568107773)
 - [Разбираемся с Custom Tooling в Argo CD](https://habr.com/ru/post/517966/)
 - [ArgoCD: деплой Helm-чарта и работа с Helm Secrets через AWS KMS](https://devsday.ru/blog/details/27843)
 - [ArgoCD with Kustomize and ksops](https://blog.devgenius.io/argocd-with-kustomize-and-ksops-2d43472e9d3b)
 - [argocd-vault-plugin](https://argocd-vault-plugin.readthedocs.io/en/stable/)
+- [kind keycloak and argocd with sso](https://medium.com/@charled.breteche/kind-keycloak-and-argocd-with-sso-9f3536dd7f61)
+- [Gitops и ArgoCD: отслеживание изменений образов](https://temofeev.ru/info/articles/gitops-i-argocd-otslezhivanie-izmeneniy-obrazov/)
 
 ### Flux
 
@@ -86,6 +89,7 @@
 - Getting Started to Write Your First Kubernetes Admission Webhook
   - [part 1](https://medium.com/trendyol-tech/getting-started-to-write-your-first-kubernetes-admission-webhook-part-1-623f40c2adda)
   - [part 2](https://medium.com/trendyol-tech/getting-started-to-write-your-first-kubernetes-admission-webhook-part-2-48d0b0b1780e)
+
 ## operators
 
 - [Writing a Kubernetes Operator: From Zero to Hero](https://anupamgogoi.medium.com/writing-a-kubernetes-operator-from-zero-to-hero-8ca5dc2462b7) [rus](https://habr.com/ru/company/southbridge/blog/556860/?utm_source=habrahabr&utm_medium=rss&utm_campaign=556860)
@@ -107,12 +111,17 @@
   - part 2 [Update and delete of github repository](https://pnguyen.io/posts/test-drive-kubernetes-operator-2/)
   - part 3 [Creating of github repository by cloning another repository](https://pnguyen.io/posts/test-drive-kubernetes-operator-3/)
   - part 4 [Validation using webhooks](https://pnguyen.io/posts/test-drive-kubernetes-operator-4/)
+
 ## Networking
 
 - [Network Policy Editor](https://editor.cilium.io/)
-
+- [Why and How of Kubernetes Ingress (and Networking)](https://itnext.io/why-and-how-of-kubernetes-ingress-and-networking-6cb308ca03d2)
+- [cilium: Debugging and Monitoring DNS issues in Kubernetes](https://cilium.io/blog/2019/12/18/how-to-debug-dns-issues-in-k8s)
 ## Monitoring
+
 - [Как настроить мониторинг событий в Kubernetes: 4 бесплатных инструмента](https://habr.com/ru/company/mailru/blog/570500/)
+- [Alerting with Prometheus on Kubernetes](http://elatov.github.io/2020/01/alerting-with-prometheus-on-kubernetes/)
+
 
 ## etcd
 
