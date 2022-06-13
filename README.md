@@ -112,6 +112,7 @@
 
 # Networking
 
+- [1,000,000 Concurrent Connections](https://josephmate.github.io/2022-04-14-max-connections/)
 - [Everything curl ](https://everything.curl.dev/)
 - [High Performance Browser Networking](https://hpbn.co/)
 - [How 1500 bytes became the MTU of the internet](https://blog.benjojo.co.uk/post/why-is-ethernet-mtu-1500)
@@ -249,7 +250,8 @@
   - [Monitoring-kubernetes-with-prometheus: examples](https://github.com/coreos/blog-examples/blob/master/monitoring-kubernetes-with-prometheus/prometheus.yml)
   - [Анализ TSDB в Prometheus 2](https://habr.com/ru/company/funcorp/blog/445370/)
   - [Prometheus federation LAB](https://github.com/blndev/prometheus-playground)
-  - [How to troubleshoot remote write issues in Prometheus](https://grafana.com/blog/2021/04/12/how-to-troubleshoot-remote-write-issues-in-prometheus/?utm_source=tw&utm_medium=social)
+  - [How to troubleshoot remote write issues in Prometheus](https://grafana.com/blog/2021/04/12/how-to-troubleshoot-remote-write-issues-in-prometheus)
+  - [How relabeling in Prometheus works](https://grafana.com/blog/2022/03/21/how-relabeling-in-prometheus-works/)
   - [Prometheus Cheat Sheet - How to Join Multiple Metrics (Vector Matching)](https://iximiuz.com/en/posts/prometheus-vector-matching/)
   - [Understanding the Prometheus rate() function](https://www.metricfire.com/blog/understanding-the-prometheus-rate-function/)
   - [Monitoring as Code на базе VictoriaMetrics и Grafana](https://habr.com/ru/post/568090/)

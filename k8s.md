@@ -40,6 +40,8 @@
 - [Why and How of Kubernetes Ingress (and Networking)](https://itnext.io/why-and-how-of-kubernetes-ingress-and-networking-6cb308ca03d2)
 - [How does 'kubectl exec' work? / Docker shim](https://erkanerol.github.io/post/how-kubectl-exec-works/)
 - [How It Works — kubectl exec / CRI-O](https://itnext.io/how-it-works-kubectl-exec-e31325daa910)
+- [How to Clean Up Old Containers and Images in Your Kubernetes Cluster](https://www.howtogeek.com/devops/how-to-clean-up-old-containers-and-images-in-your-kubernetes-cluster/)
+- [Demystifying kube-proxy](https://mayankshah.dev/blog/demystifying-kube-proxy/)
 - Deployment
   - Kubernetes Deployment Antipatterns
     - [part 1](https://medium.com/containers-101/kubernetes-deployment-antipatterns-part-1-9e7b54a08b9)
@@ -48,6 +50,18 @@
 - VPA
   - [Вертикальное автомасштабирование pod'ов в Kubernetes: полное руководство](https://habr.com/ru/company/flant/blog/541642/)
 - [Architecting Kubernetes clusters — choosing the best autoscaling strategy](https://learnk8s.io/kubernetes-autoscaling-strategies)
+- Working with Kubernetes API
+  - [Kubernetes API Basics - Resources, Kinds, and Objects](https://iximiuz.com/en/posts/kubernetes-api-structure-and-terminology/)
+  - [How To Call Kubernetes API using Simple HTTP Client](https://iximiuz.com/en/posts/kubernetes-api-call-simple-http-client/)
+  - [How To Call Kubernetes API using Go - Types and Common Machinery](https://iximiuz.com/en/posts/kubernetes-api-go-types-and-common-machinery/)
+  - [How To Extend Kubernetes API - Kubernetes vs. Django](https://iximiuz.com/en/posts/kubernetes-api-how-to-extend/)
+  - [How To Develop Kubernetes CLIs Like a Pro](https://iximiuz.com/en/posts/kubernetes-api-go-cli/)
+
+
+## Other
+
+- [Accessing kube-dns from your desktop](https://blog.kubiosec.io/accessing-kube-dns-from-your-desktop)
+
 ## flant
 
 - [Мониторинг ping'ов между узлами Kubernetes — наш рецепт](https://habr.com/ru/company/flant/blog/442798/)
