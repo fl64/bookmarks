@@ -57,7 +57,6 @@
   - [How To Extend Kubernetes API - Kubernetes vs. Django](https://iximiuz.com/en/posts/kubernetes-api-how-to-extend/)
   - [How To Develop Kubernetes CLIs Like a Pro](https://iximiuz.com/en/posts/kubernetes-api-go-cli/)
 
-
 ## Other
 
 - [Accessing kube-dns from your desktop](https://blog.kubiosec.io/accessing-kube-dns-from-your-desktop)
@@ -131,11 +130,24 @@
 - [Network Policy Editor](https://editor.cilium.io/)
 - [Why and How of Kubernetes Ingress (and Networking)](https://itnext.io/why-and-how-of-kubernetes-ingress-and-networking-6cb308ca03d2)
 - [cilium: Debugging and Monitoring DNS issues in Kubernetes](https://cilium.io/blog/2019/12/18/how-to-debug-dns-issues-in-k8s)
+
+## ServiceMesh
+
+### Istio
+
+- [Istio Data Plane Pod Startup Process Explained](https://jimmysong.io/en/blog/istio-pod-process-lifecycle/)
+- [Sidecar Injection, Transparent Traffic Hijacking , and Routing Process in Istio Explained in Detail](https://jimmysong.io/en/blog/sidecar-injection-iptables-and-traffic-routing/)
+- [Traffic Types and Iptables Rules in Istio Sidecar Explained](https://jimmysong.io/en/blog/istio-sidecar-traffic-types/)
+- [Istio Component Ports and Functions in Detail](https://jimmysong.io/en/blog/istio-components-and-ports/)
+- [Understanding Istio and TCP service](https://tetrate.io/blog/understanding-istio-and-tcp-services/)
+- [Istio Ingress vs. Kubernetes Ingress](https://software.danielwatrous.com/istio-ingress-vs-kubernetes-ingress/)
+- [Using Istio Service Mesh as API Gateway](https://jimmysong.io/en/blog/istio-servicemesh-api-gateway/)
+- [Why Would You Need SPIRE for Authentication With Istio?](https://jimmysong.io/en/blog/why-istio-need-spire/)
+
 ## Monitoring
 
 - [Как настроить мониторинг событий в Kubernetes: 4 бесплатных инструмента](https://habr.com/ru/company/mailru/blog/570500/)
 - [Alerting with Prometheus on Kubernetes](http://elatov.github.io/2020/01/alerting-with-prometheus-on-kubernetes/)
-
 
 ## etcd
 
