@@ -42,6 +42,7 @@
 - [How It Works — kubectl exec / CRI-O](https://itnext.io/how-it-works-kubectl-exec-e31325daa910)
 - [How to Clean Up Old Containers and Images in Your Kubernetes Cluster](https://www.howtogeek.com/devops/how-to-clean-up-old-containers-and-images-in-your-kubernetes-cluster/)
 - [Demystifying kube-proxy](https://mayankshah.dev/blog/demystifying-kube-proxy/)
+- [A Deep Dive into Kubernetes External Traffic Policies](https://www.asykim.com/blog/deep-dive-into-kubernetes-external-traffic-policies)
 - Deployment
   - Kubernetes Deployment Antipatterns
     - [part 1](https://medium.com/containers-101/kubernetes-deployment-antipatterns-part-1-9e7b54a08b9)
