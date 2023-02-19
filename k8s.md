@@ -37,11 +37,13 @@
 - [Awesome k8s](https://github.com/ramitsurana/awesome-kubernetes)
 - [What happens when k8s](https://github.com/jamiehannaford/what-happens-when-k8s)
 - [What happens when Kubectl Run is executed?](https://link.medium.com/dsrKX2mvKhb)
+- [What Happens When Deleting a Pod](https://medium.com/@meng.yan/what-happens-when-deleting-a-pod-d1219c7e1b53)
 - [Why and How of Kubernetes Ingress (and Networking)](https://itnext.io/why-and-how-of-kubernetes-ingress-and-networking-6cb308ca03d2)
 - [How does 'kubectl exec' work? / Docker shim](https://erkanerol.github.io/post/how-kubectl-exec-works/)
 - [How It Works — kubectl exec / CRI-O](https://itnext.io/how-it-works-kubectl-exec-e31325daa910)
 - [How to Clean Up Old Containers and Images in Your Kubernetes Cluster](https://www.howtogeek.com/devops/how-to-clean-up-old-containers-and-images-in-your-kubernetes-cluster/)
 - [Demystifying kube-proxy](https://mayankshah.dev/blog/demystifying-kube-proxy/)
+- [Ephemeral Containers — For a More Civilized Debugging Age](https://bmiguel-teixeira.medium.com/ephemeral-containers-for-a-more-civilized-debugging-age-399fa3162f3b)
 - [A Deep Dive into Kubernetes External Traffic Policies](https://www.asykim.com/blog/deep-dive-into-kubernetes-external-traffic-policies)
 - Deployment
   - Kubernetes Deployment Antipatterns
@@ -61,6 +63,9 @@
 ## Other
 
 - [Accessing kube-dns from your desktop](https://blog.kubiosec.io/accessing-kube-dns-from-your-desktop)
+- [The life of a DNS query in Kubernetes](https://www.nslookup.io/learning/the-life-of-a-dns-query-in-kubernetes/)
+- [Kubernetes Node Local DNS Cache](https://povilasv.me/kubernetes-node-local-dns-cache/)
+- [Vertical Pod Autoscaling: The Definitive Guide](https://povilasv.me/vertical-pod-autoscaling-the-definitive-guide/)
 
 ## flant
 
@@ -131,6 +136,8 @@
 - [Network Policy Editor](https://editor.cilium.io/)
 - [Why and How of Kubernetes Ingress (and Networking)](https://itnext.io/why-and-how-of-kubernetes-ingress-and-networking-6cb308ca03d2)
 - [cilium: Debugging and Monitoring DNS issues in Kubernetes](https://cilium.io/blog/2019/12/18/how-to-debug-dns-issues-in-k8s)
+- [networkpolicy/tutorial](https://github.com/networkpolicy/tutorial)
+- [Cilium Code Walk Through Series](http://arthurchiao.art/blog/cilium-code-series/)
 
 ## ServiceMesh
 
@@ -144,6 +151,7 @@
 - [Istio Ingress vs. Kubernetes Ingress](https://software.danielwatrous.com/istio-ingress-vs-kubernetes-ingress/)
 - [Using Istio Service Mesh as API Gateway](https://jimmysong.io/en/blog/istio-servicemesh-api-gateway/)
 - [Why Would You Need SPIRE for Authentication With Istio?](https://jimmysong.io/en/blog/why-istio-need-spire/)
+- [Locality Aware Routing](https://karlstoney.com/2020/10/01/locality-aware-routing/)
 
 ## Monitoring
 
@@ -167,7 +175,13 @@
 ## Other
 
 - [Running Vault and Consul on Kubernetes](https://testdriven.io/blog/running-vault-and-consul-on-kubernetes/)
+
+### Helm
+
 - [13 Best Practices for using Helm](https://codersociety.com/blog/articles/helm-best-practices)
+- [Using Helm To Include All Files From A Directory In-line](https://tratnayake.dev/helm-include-all-files-from-directory-in-line)
+- [understanding-helm-upgrade-reset-reuse-values](understanding-helm-upgrade-reset-reuse-values)
+- [Helm — Advanced Commands](https://medium.com/geekculture/helm-advanced-commands-9365097475b)
 
 ## Releases
 

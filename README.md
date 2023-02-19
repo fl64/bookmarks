@@ -127,6 +127,7 @@
   - [part2](https://fedoramagazine.org/network-address-translation-part-2-the-conntrack-tool/)
   - [part3](https://fedoramagazine.org/conntrack-event-framework/)
   - [part4](https://fedoramagazine.org/network-address-translation-part-4-conntrack-troubleshooting/)
+- [Maximizing TCP Throughput in Linux: Understanding and Tuning Send and Receive Buffers](https://madflojo.medium.com/maximizing-tcp-throughput-in-linux-understanding-and-tuning-send-and-receive-buffers-92df654c415f)
 - [How NAT traversal works?](https://tailscale.com/blog/how-nat-traversal-works/)
 - [VXLAN & Linux](https://vincent.bernat.ch/en/blog/2017-vxlan-linux)
 - [Multi-tier load-balancing with Linux](https://vincent.bernat.ch/en/blog/2018-multi-tier-loadbalancer)
@@ -223,6 +224,7 @@
     - [youtube](https://www.youtube.com/watch?v=b3XDl0YsVsg&feature=emb_imp_woyt)
 - [Container Networking Is Simple!](https://iximiuz.com/en/posts/container-networking-is-simple/)
 - [Docker resource management via Cgroups and systemd](https://baykara.medium.com/docker-resource-management-via-cgroups-and-systemd-633b093a835c)
+- [Introduction to container DNS](https://www.fatalerrors.org/a/introduction-to-container-dns.html)
 
 ## Dockerless
 
