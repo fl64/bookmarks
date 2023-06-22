@@ -17,7 +17,9 @@
 - [Breaking down and fixing Kubernetes](https://itnext.io/breaking-down-and-fixing-kubernetes-4df2f22f87c3) [ru](https://habr.com/ru/company/mailru/blog/567512/)
 
 ### Common
-
+- [Set OpenAPI patch strategy for Kubernetes Custom Resources - Kustomize](https://tech.aabouzaid.com/2022/11/set-openapi-patch-strategy-for-kubernetes-custom-resources-kustomize.html)
+- [Layer-by-Layer Cgroup in Kubernetes](https://medium.com/geekculture/layer-by-layer-cgroup-in-kubernetes-c4e26bda676c)
+- [Quality of Service Management for Pods by Kubelet](https://www.sobyte.net/post/2022-03/kubelet-quality-of-service-management-for-pods/)
 - [47 Things To Become a Kubernetes Expert](https://ymmt2005.hatenablog.com/entry/k8s-things)
 - [Kubernetes Overview Diagrams](https://brennerm.github.io/posts/kubernetes-overview-diagrams.html)
 - [Kubernetes Examples](https://github.com/ContainerSolutions/kubernetes-examples)

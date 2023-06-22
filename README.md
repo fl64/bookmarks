@@ -46,12 +46,14 @@
   - [part 6: A look under the hood](https://lwn.net/Articles/606925/)
   - [part 7: To unity and beyond](https://lwn.net/Articles/608425/)
 - Etc
+  - [Where does my computer get the time from?](https://dotat.at/@/2023-05-26-whence-time.html)
   - [SSL\TLS certificates stores](https://www.happyassassin.net/posts/2015/01/12/a-note-about-ssltls-trusted-certificate-stores-and-platforms/)
   - [How to Set Environment Variables in Linux and Mac: The Missing Manual](https://doppler.com/blog/how-to-set-environment-variables-in-linux-and-mac)
   - [Bash: about .bashrc, .bash_profile, .profile, /etc/profile, etc/bash.bashrc and others](https://www.stefaanlippens.net/bashrc_and_others/)
   - [How are Unix pipes implemented?](https://toroid.org/unix-pipe-implementation)
   - [systemd playground](https://systemd-by-example.com/)
   - [Avoiding complexity with systemd](https://mgdm.net/weblog/systemd/)
+  - [A Complete Guide to Managing Log Files with Logrotate](https://betterstack.com/community/guides/logging/how-to-manage-log-files-with-logrotate-on-ubuntu-20-04/)
 
 ### CLI
 
@@ -130,6 +132,8 @@
 - [Maximizing TCP Throughput in Linux: Understanding and Tuning Send and Receive Buffers](https://madflojo.medium.com/maximizing-tcp-throughput-in-linux-understanding-and-tuning-send-and-receive-buffers-92df654c415f)
 - [How NAT traversal works?](https://tailscale.com/blog/how-nat-traversal-works/)
 - [VXLAN & Linux](https://vincent.bernat.ch/en/blog/2017-vxlan-linux)
+- [Введение в VxLAN](https://habr.com/ru/articles/344326/)
+- [Introduction to Linux interfaces for virtual networking](https://developers.redhat.com/blog/2018/10/22/introduction-to-linux-interfaces-for-virtual-networking#)
 - [Multi-tier load-balancing with Linux](https://vincent.bernat.ch/en/blog/2018-multi-tier-loadbalancer)
 - iproute2:
   - [Task-centered iproute2 manual](https://github.com/dmbaturin/iproute2-cheatsheet)
