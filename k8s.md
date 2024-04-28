@@ -69,15 +69,6 @@
 - [Kubernetes Node Local DNS Cache](https://povilasv.me/kubernetes-node-local-dns-cache/)
 - [Vertical Pod Autoscaling: The Definitive Guide](https://povilasv.me/vertical-pod-autoscaling-the-definitive-guide/)
 
-## flant
-
-- [Мониторинг ping'ов между узлами Kubernetes — наш рецепт](https://habr.com/ru/company/flant/blog/442798/)
-- Лучшие практики для деплоя высокодоступных приложений в Kubernetes.
-  - [Часть 2](https://habr.com/ru/company/flant/blog/549464/)
-  - [Часть 1](https://habr.com/ru/company/flant/blog/545204/)
-- [Как мы обновляли Kubernetes 1.16 до 1.19… с удовольствием](https://habr.com/ru/company/flant/blog/545724/)
-- [Эксплуатация MongoDB в Kubernetes: решения, их плюсы и минусы](https://habr.com/ru/company/flant/blog/549040/)
-
 ## GitOps
 
 ### Argo
@@ -184,10 +175,3 @@
 - [Using Helm To Include All Files From A Directory In-line](https://tratnayake.dev/helm-include-all-files-from-directory-in-line)
 - [understanding-helm-upgrade-reset-reuse-values](understanding-helm-upgrade-reset-reuse-values)
 - [Helm — Advanced Commands](https://medium.com/geekculture/helm-advanced-commands-9365097475b)
-
-## Releases
-
-- [1.22](https://habr.com/ru/company/flant/blog/571184/)
-- [1.20](https://habr.com/ru/company/flant/blog/530924/)
-- [1.19](https://habr.com/ru/company/flant/blog/516322/)
-- [1.19](https://habr.com/ru/company/flant/blog/493284/)

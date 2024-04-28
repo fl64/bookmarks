@@ -2,12 +2,9 @@
 
 # OS and CLI
 
-### OS
+### Linux
 
-- Linux
-  - [Linux-insides](https://github.com/0xAX/linux-insides)
-  - [Linux-insides-ru](https://github.com/proninyaroslav/linux-insides-ru)
-  - [Fedora FAQ](https://russianfedora.github.io/FAQ/)
+
 - Boot
   - Linux Boot Process [Part 1](https://cloudchef.medium.com/linux-boot-process-part-1-e8fea015dd66), [Part 2](https://cloudchef.medium.com/linux-boot-process-part-2-bd7514913495)
   - [All-Stages-of-Linux-Booting-Process](https://github.com/nu11secur1ty/All-Stages-of-Linux-Booting-Process-)
@@ -31,6 +28,7 @@
     - [part1](https://habr.com/ru/post/540104/)
     - [part2](https://habr.com/ru/post/541214/)
 - Misc
+  - Linux-insides [en](https://github.com/0xAX/linux-insides) [ru](https://github.com/proninyaroslav/linux-insides-ru)
   - [Linux process priorities demystified](https://blog.sigma-star.at/post/2022/02/linux-proc-prios/)
   - [How to Trace Linux System Calls in Production with Minimal Impact on Performance](https://en.pingcap.com/blog/how-to-trace-linux-system-calls-in-production-with-minimal-impact-on-performance)
   - [htop explained](https://peteris.rocks/blog/htop/)
