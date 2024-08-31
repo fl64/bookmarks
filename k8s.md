@@ -17,6 +17,7 @@
 - [Breaking down and fixing Kubernetes](https://itnext.io/breaking-down-and-fixing-kubernetes-4df2f22f87c3) [ru](https://habr.com/ru/company/mailru/blog/567512/)
 
 ### Common
+
 - [Set OpenAPI patch strategy for Kubernetes Custom Resources - Kustomize](https://tech.aabouzaid.com/2022/11/set-openapi-patch-strategy-for-kubernetes-custom-resources-kustomize.html)
 - [Layer-by-Layer Cgroup in Kubernetes](https://medium.com/geekculture/layer-by-layer-cgroup-in-kubernetes-c4e26bda676c)
 - [Quality of Service Management for Pods by Kubelet](https://www.sobyte.net/post/2022-03/kubelet-quality-of-service-management-for-pods/)
@@ -175,3 +176,14 @@
 - [Using Helm To Include All Files From A Directory In-line](https://tratnayake.dev/helm-include-all-files-from-directory-in-line)
 - [understanding-helm-upgrade-reset-reuse-values](understanding-helm-upgrade-reset-reuse-values)
 - [Helm — Advanced Commands](https://medium.com/geekculture/helm-advanced-commands-9365097475b)
+
+### Dev
+
+- [Testing Production Kubernetes Controllers](https://superorbital.io/blog/testing-production-controllers/)
+- [Writing and testing Kubernetes webhooks using Kubebuilder v2](https://ymmt2005.hatenablog.com/entry/2019/08/10/Writing_and_testing_Kubernetes_webhooks_using_Kubebuilder_v2)
+- [An example of using dynamic client of k8s.io/client-go](https://ymmt2005.hatenablog.com/entry/2020/04/14/An_example_of_using_dynamic_client_of_k8s.io/client-go)
+- [The Kubernetes dynamic client](https://caiorcferreira.github.io/post/the-kubernetes-dynamic-client/)
+- Kubernetes Operator with Kubebuilder
+  - [part 1](https://janosmiko.com/blog/2023-03-02-tutorial-kubebuilder-1/)
+  - [part 2](https://janosmiko.com/blog/2023-03-03-tutorial-kubebuilder-2/)
+  - [part 3](https://janosmiko.com/blog/2023-03-04-tutorial-kubebuilder-3/)
